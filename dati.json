@@ -293,7 +293,58 @@
   },
   "perimetro": [],
   "poi": [],
-  "dest": [],
+  "dest": [
+    {
+      "nome": "Bottega Biologica",
+      "cat": "Negozio",
+      "lat": 43.785859,
+      "lng": 11.223192,
+      "acc": 5,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-06-22T09:15:51.433Z"
+    },
+    {
+      "nome": "Shake Café",
+      "cat": "Bar / Café",
+      "lat": 43.785881,
+      "lng": 11.22305,
+      "acc": 4,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-06-22T09:16:49.538Z"
+    },
+    {
+      "nome": "Live in MT Sales Office",
+      "cat": "Servizio",
+      "lat": 43.786001,
+      "lng": 11.22348,
+      "acc": 13,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-06-22T09:30:55.033Z"
+    },
+    {
+      "nome": "Ingresso Cascine 35",
+      "cat": "Ingresso",
+      "lat": 43.785354,
+      "lng": 11.224589,
+      "acc": 14,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-06-22T09:37:09.154Z"
+    },
+    {
+      "nome": "Piazza delle Sigaraie",
+      "cat": "Piazza / Esterno",
+      "lat": 43.785735,
+      "lng": 11.224046,
+      "acc": 13,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-06-22T09:40:00.340Z"
+    }
+  ],
   "gruppi": [
     {
       "ed": "B1",
@@ -329,15 +380,15 @@
           "Servizio"
         ],
         [
-          "Comété Beauty Space",
+          "ComÃ©tÃ© Beauty Space",
           "Servizio"
         ],
         [
-          "Fàbera Jewelry",
+          "FÃ bera Jewelry",
           "Negozio"
         ],
         [
-          "Hiroko — Bentō e Vini",
+          "Hiroko â BentÅ e Vini",
           "Ristorante"
         ],
         [
@@ -370,11 +421,11 @@
       "ed": "B5",
       "items": [
         [
-          "Shake Café",
-          "Bar / Café"
+          "Shake CafÃ©",
+          "Bar / CafÃ©"
         ],
         [
-          "Berberè",
+          "BerberÃ¨",
           "Ristorante"
         ],
         [
@@ -391,7 +442,7 @@
         ],
         [
           "Captain Santors",
-          "Bar / Café"
+          "Bar / CafÃ©"
         ],
         [
           "Pueco",
@@ -406,7 +457,7 @@
           "Servizio"
         ],
         [
-          "LVMH Métiers d'Excellence",
+          "LVMH MÃ©tiers d'Excellence",
           "Ufficio"
         ],
         [
@@ -463,7 +514,7 @@
           "Negozio"
         ],
         [
-          "Rifò",
+          "RifÃ²",
           "Negozio"
         ],
         [
@@ -506,7 +557,7 @@
           "Spazio B9"
         ],
         [
-          "Po'stò / Vivido",
+          "Po'stÃ² / Vivido",
           "Ristorante"
         ],
         [
@@ -519,7 +570,7 @@
       "ed": "B11",
       "items": [
         [
-          "Polimoda — B11",
+          "Polimoda â B11",
           "Scuola"
         ]
       ]
@@ -542,7 +593,7 @@
           "Piazza / Esterno"
         ],
         [
-          "Arno – Imaginary Topography",
+          "Arno â Imaginary Topography",
           "Piazza / Esterno"
         ],
         [
@@ -586,5 +637,5 @@
       ]
     }
   ],
-  "v": 1782135411173
+  "v": 1782135735430
 }
