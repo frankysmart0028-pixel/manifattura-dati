@@ -1,1 +1,590 @@
-{}
+{
+  "grafo": {
+    "nodi": {
+      "N7": {
+        "nome": "Ingresso Cascine 35",
+        "lat": 43.785383,
+        "lng": 11.224376
+      },
+      "N8": {
+        "nome": "Punto 8",
+        "lat": 43.785524,
+        "lng": 11.224414
+      },
+      "N10": {
+        "nome": "Punto 10",
+        "lat": 43.785819,
+        "lng": 11.223915
+      },
+      "N11": {
+        "nome": "Punto 11",
+        "lat": 43.785945,
+        "lng": 11.223577
+      },
+      "N12": {
+        "nome": "Punto 12",
+        "lat": 43.785433,
+        "lng": 11.223215
+      },
+      "N13": {
+        "nome": "Punto 13",
+        "lat": 43.785224,
+        "lng": 11.223566
+      },
+      "N14": {
+        "nome": "Punto 14",
+        "lat": 43.785672,
+        "lng": 11.222834
+      },
+      "N15": {
+        "nome": "Punto 15",
+        "lat": 43.785765,
+        "lng": 11.222555
+      },
+      "N16": {
+        "nome": "Punto 16",
+        "lat": 43.785817,
+        "lng": 11.222443
+      },
+      "N17": {
+        "nome": "Punto 17",
+        "lat": 43.785904,
+        "lng": 11.222094
+      },
+      "N20": {
+        "nome": "Punto 20",
+        "lat": 43.786973,
+        "lng": 11.222073
+      },
+      "N21": {
+        "nome": "Punto 21",
+        "lat": 43.786465,
+        "lng": 11.221759
+      },
+      "N23": {
+        "nome": "Punto 23",
+        "lat": 43.787056,
+        "lng": 11.22189
+      },
+      "N24": {
+        "nome": "Punto 24",
+        "lat": 43.787145,
+        "lng": 11.221566
+      },
+      "N25": {
+        "nome": "Punto 25",
+        "lat": 43.786407,
+        "lng": 11.221166
+      },
+      "N26": {
+        "nome": "Punto 26",
+        "lat": 43.786231,
+        "lng": 11.221072
+      },
+      "N31": {
+        "nome": "Punto 31",
+        "lat": 43.786345,
+        "lng": 11.223808
+      },
+      "N32": {
+        "nome": "Punto 32",
+        "lat": 43.786597,
+        "lng": 11.223084
+      },
+      "N37": {
+        "nome": "Punto 37",
+        "lat": 43.786272,
+        "lng": 11.222333
+      },
+      "N38": {
+        "nome": "Punto 38",
+        "lat": 43.78669,
+        "lng": 11.222574
+      },
+      "N39": {
+        "nome": "Punto 39",
+        "lat": 43.786711,
+        "lng": 11.222472
+      },
+      "N41": {
+        "nome": "Punto 41",
+        "lat": 43.78686,
+        "lng": 11.222521
+      },
+      "N56": {
+        "nome": "Punto 56",
+        "lat": 43.786038,
+        "lng": 11.223628
+      },
+      "N58": {
+        "nome": "Punto 58",
+        "lat": 43.786384,
+        "lng": 11.222405
+      },
+      "N59": {
+        "nome": "Punto 59",
+        "lat": 43.786177,
+        "lng": 11.222268
+      },
+      "N60": {
+        "nome": "Punto 60",
+        "lat": 43.785836,
+        "lng": 11.223507
+      },
+      "N64": {
+        "nome": "Punto 64",
+        "lat": 43.786952,
+        "lng": 11.223312
+      },
+      "N65": {
+        "nome": "Cancello Cascine",
+        "lat": 43.785335,
+        "lng": 11.224564
+      }
+    },
+    "archi": [
+      {
+        "a": "N7",
+        "b": "N8",
+        "aperto": true
+      },
+      {
+        "a": "N8",
+        "b": "N10",
+        "aperto": true
+      },
+      {
+        "a": "N10",
+        "b": "N11",
+        "aperto": true
+      },
+      {
+        "a": "N11",
+        "b": "N12",
+        "aperto": true
+      },
+      {
+        "a": "N12",
+        "b": "N13",
+        "aperto": true
+      },
+      {
+        "a": "N13",
+        "b": "N14",
+        "aperto": true
+      },
+      {
+        "a": "N14",
+        "b": "N15",
+        "aperto": true
+      },
+      {
+        "a": "N15",
+        "b": "N16",
+        "aperto": true
+      },
+      {
+        "a": "N16",
+        "b": "N17",
+        "aperto": true
+      },
+      {
+        "a": "N41",
+        "b": "N20",
+        "aperto": true
+      },
+      {
+        "a": "N20",
+        "b": "N21",
+        "aperto": true
+      },
+      {
+        "a": "N20",
+        "b": "N23",
+        "aperto": true
+      },
+      {
+        "a": "N23",
+        "b": "N24",
+        "aperto": true
+      },
+      {
+        "a": "N24",
+        "b": "N25",
+        "aperto": true
+      },
+      {
+        "a": "N25",
+        "b": "N26",
+        "aperto": true
+      },
+      {
+        "a": "N11",
+        "b": "N31",
+        "aperto": true
+      },
+      {
+        "a": "N31",
+        "b": "N32",
+        "aperto": true
+      },
+      {
+        "a": "N37",
+        "b": "N38",
+        "aperto": true
+      },
+      {
+        "a": "N38",
+        "b": "N39",
+        "aperto": true
+      },
+      {
+        "a": "N39",
+        "b": "N41",
+        "aperto": true
+      },
+      {
+        "a": "N17",
+        "b": "N37",
+        "aperto": true
+      },
+      {
+        "a": "N32",
+        "b": "N38",
+        "aperto": true,
+        "id": "tratto-sud"
+      },
+      {
+        "a": "N32",
+        "b": "N64",
+        "aperto": true
+      },
+      {
+        "a": "N56",
+        "b": "N58",
+        "aperto": true
+      },
+      {
+        "a": "N58",
+        "b": "N59",
+        "aperto": true
+      },
+      {
+        "a": "N59",
+        "b": "N60",
+        "aperto": true
+      },
+      {
+        "a": "N65",
+        "b": "N7",
+        "aperto": true
+      },
+      {
+        "a": "N8",
+        "b": "N65",
+        "aperto": true
+      },
+      {
+        "a": "N56",
+        "b": "N11",
+        "aperto": true
+      }
+    ]
+  },
+  "perimetro": [],
+  "poi": [],
+  "dest": [],
+  "gruppi": [
+    {
+      "ed": "B1",
+      "items": [
+        [
+          "Aparto",
+          "Servizio"
+        ],
+        [
+          "La Piadineria",
+          "Ristorante"
+        ]
+      ]
+    },
+    {
+      "ed": "B3",
+      "items": [
+        [
+          "Caveau",
+          "Servizio"
+        ]
+      ]
+    },
+    {
+      "ed": "B4",
+      "items": [
+        [
+          "Cuchiss Lab",
+          "Atelier"
+        ],
+        [
+          "Blend",
+          "Servizio"
+        ],
+        [
+          "Comété Beauty Space",
+          "Servizio"
+        ],
+        [
+          "Fàbera Jewelry",
+          "Negozio"
+        ],
+        [
+          "Hiroko — Bentō e Vini",
+          "Ristorante"
+        ],
+        [
+          "Live in MT Sales Office",
+          "Ufficio"
+        ],
+        [
+          "Noa Ink",
+          "Servizio"
+        ],
+        [
+          "Opera Prima",
+          "Negozio"
+        ],
+        [
+          "Polverenera Parrucchieri",
+          "Servizio"
+        ],
+        [
+          "Superduper",
+          "Negozio"
+        ],
+        [
+          "Zoo_Hub",
+          "Ufficio"
+        ]
+      ]
+    },
+    {
+      "ed": "B5",
+      "items": [
+        [
+          "Shake Café",
+          "Bar / Café"
+        ],
+        [
+          "Berberè",
+          "Ristorante"
+        ],
+        [
+          "Trek Bicycle",
+          "Negozio"
+        ],
+        [
+          "Bottega Biologica",
+          "Negozio"
+        ],
+        [
+          "Cool Farm / Mauna Kea",
+          "Ristorante"
+        ],
+        [
+          "Captain Santors",
+          "Bar / Café"
+        ],
+        [
+          "Pueco",
+          "Negozio"
+        ],
+        [
+          "Archivi Sartoriali",
+          "Atelier"
+        ],
+        [
+          "Blues Barber",
+          "Servizio"
+        ],
+        [
+          "LVMH Métiers d'Excellence",
+          "Ufficio"
+        ],
+        [
+          "Savills",
+          "Ufficio"
+        ],
+        [
+          "SDG Group",
+          "Ufficio"
+        ],
+        [
+          "ShippyPro",
+          "Ufficio"
+        ],
+        [
+          "PNAT",
+          "Ufficio"
+        ],
+        [
+          "Carbonsink",
+          "Ufficio"
+        ],
+        [
+          "Gruppo Florence",
+          "Ufficio"
+        ],
+        [
+          "Doghead Animation",
+          "Ufficio"
+        ],
+        [
+          "Assopellettieri",
+          "Ufficio"
+        ],
+        [
+          "A South Pole Company",
+          "Ufficio"
+        ]
+      ]
+    },
+    {
+      "ed": "B6",
+      "items": [
+        [
+          "Bulli & Balene",
+          "Ristorante"
+        ],
+        [
+          "Polimoda",
+          "Scuola"
+        ],
+        [
+          "Ecoalf",
+          "Negozio"
+        ],
+        [
+          "Rifò",
+          "Negozio"
+        ],
+        [
+          "Lostudioesse",
+          "Atelier"
+        ]
+      ]
+    },
+    {
+      "ed": "B7",
+      "items": [
+        [
+          "Pramac",
+          "Ufficio"
+        ]
+      ]
+    },
+    {
+      "ed": "B8",
+      "items": [
+        [
+          "E-RIHS",
+          "Ufficio"
+        ]
+      ]
+    },
+    {
+      "ed": "B9",
+      "items": [
+        [
+          "Manifattura Placemakers",
+          "Ufficio"
+        ],
+        [
+          "Associazione Arte Continua",
+          "Spazio B9"
+        ],
+        [
+          "Q-bic",
+          "Spazio B9"
+        ],
+        [
+          "Po'stò / Vivido",
+          "Ristorante"
+        ],
+        [
+          "Spazio Eventi B9",
+          "Spazio B9"
+        ]
+      ]
+    },
+    {
+      "ed": "B11",
+      "items": [
+        [
+          "Polimoda — B11",
+          "Scuola"
+        ]
+      ]
+    },
+    {
+      "ed": "BULK",
+      "items": [
+        [
+          "Synlab",
+          "Servizio"
+        ]
+      ]
+    },
+    {
+      "ed": "ESTERNI",
+      "port": false,
+      "items": [
+        [
+          "Toast Project Space",
+          "Piazza / Esterno"
+        ],
+        [
+          "Arno – Imaginary Topography",
+          "Piazza / Esterno"
+        ],
+        [
+          "Spazio Gioco / Play Area",
+          "Piazza / Esterno"
+        ],
+        [
+          "Tiny Artistic Homes",
+          "Piazza / Esterno"
+        ],
+        [
+          "Piazza Maria Montessori",
+          "Piazza / Esterno"
+        ],
+        [
+          "Piazza Francesca Morvillo",
+          "Piazza / Esterno"
+        ],
+        [
+          "Piazza delle Sigaraie",
+          "Piazza / Esterno"
+        ],
+        [
+          "Piazza Emanuela Loi",
+          "Piazza / Esterno"
+        ]
+      ]
+    },
+    {
+      "ed": "INGRESSI",
+      "port": false,
+      "items": [
+        [
+          "Ingresso Cascine 35",
+          "Ingresso"
+        ],
+        [
+          "Cancello Cascine",
+          "Ingresso"
+        ]
+      ]
+    }
+  ],
+  "v": 1782135411173
+}
