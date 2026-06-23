@@ -318,6 +318,48 @@
           11.222411
         ]
       ]
+    },
+    {
+      "nome": "B5",
+      "colore": "#19E0F0",
+      "punti": [
+        [
+          43.786101,
+          11.222309
+        ],
+        [
+          43.785778,
+          11.223392
+        ],
+        [
+          43.785607,
+          11.223306
+        ],
+        [
+          43.785729,
+          11.22284
+        ],
+        [
+          43.785675,
+          11.222805
+        ],
+        [
+          43.785735,
+          11.222628
+        ],
+        [
+          43.785788,
+          11.222647
+        ],
+        [
+          43.785923,
+          11.222209
+        ],
+        [
+          43.786101,
+          11.222298
+        ]
+      ]
     }
   ],
   "poi": [],
@@ -333,8 +375,8 @@
       "ts": "2026-06-22T09:15:51.433Z"
     },
     {
-      "nome": "Shake CafÃ©",
-      "cat": "Bar / CafÃ©",
+      "nome": "Shake CafÃÂ©",
+      "cat": "Bar / CafÃÂ©",
       "lat": 43.785881,
       "lng": 11.22305,
       "acc": 4,
@@ -408,15 +450,15 @@
           "Servizio"
         ],
         [
-          "ComÃÂ©tÃÂ© Beauty Space",
+          "ComÃÂÃÂ©tÃÂÃÂ© Beauty Space",
           "Servizio"
         ],
         [
-          "FÃÂ bera Jewelry",
+          "FÃÂÃÂ bera Jewelry",
           "Negozio"
         ],
         [
-          "Hiroko Ã¢ÂÂ BentÃÂ e Vini",
+          "Hiroko ÃÂ¢ÃÂÃÂ BentÃÂÃÂ e Vini",
           "Ristorante"
         ],
         [
@@ -449,11 +491,11 @@
       "ed": "B5",
       "items": [
         [
-          "Shake CafÃÂ©",
-          "Bar / CafÃÂ©"
+          "Shake CafÃÂÃÂ©",
+          "Bar / CafÃÂÃÂ©"
         ],
         [
-          "BerberÃÂ¨",
+          "BerberÃÂÃÂ¨",
           "Ristorante"
         ],
         [
@@ -470,7 +512,7 @@
         ],
         [
           "Captain Santors",
-          "Bar / CafÃÂ©"
+          "Bar / CafÃÂÃÂ©"
         ],
         [
           "Pueco",
@@ -485,7 +527,7 @@
           "Servizio"
         ],
         [
-          "LVMH MÃÂ©tiers d'Excellence",
+          "LVMH MÃÂÃÂ©tiers d'Excellence",
           "Ufficio"
         ],
         [
@@ -542,7 +584,7 @@
           "Negozio"
         ],
         [
-          "RifÃÂ²",
+          "RifÃÂÃÂ²",
           "Negozio"
         ],
         [
@@ -585,7 +627,7 @@
           "Spazio B9"
         ],
         [
-          "Po'stÃÂ² / Vivido",
+          "Po'stÃÂÃÂ² / Vivido",
           "Ristorante"
         ],
         [
@@ -598,7 +640,7 @@
       "ed": "B11",
       "items": [
         [
-          "Polimoda Ã¢ÂÂ B11",
+          "Polimoda ÃÂ¢ÃÂÃÂ B11",
           "Scuola"
         ]
       ]
@@ -621,7 +663,7 @@
           "Piazza / Esterno"
         ],
         [
-          "Arno Ã¢ÂÂ Imaginary Topography",
+          "Arno ÃÂ¢ÃÂÃÂ Imaginary Topography",
           "Piazza / Esterno"
         ],
         [
@@ -665,5 +707,5 @@
       ]
     }
   ],
-  "v": 1782199711993
+  "v": 1782199740538
 }
