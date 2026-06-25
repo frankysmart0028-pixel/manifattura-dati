@@ -17508,8 +17508,8 @@
       "ts": "2026-06-22T09:15:51.433Z"
     },
     {
-      "nome": "Shake CafÃ©",
-      "cat": "Bar / CafÃ©",
+      "nome": "Shake CafÃÂ©",
+      "cat": "Bar / CafÃÂ©",
       "lat": 43.785881,
       "lng": 11.22305,
       "acc": 4,
@@ -17546,6 +17546,16 @@
       "spread": null,
       "campioni": 1,
       "ts": "2026-06-22T09:40:00.340Z"
+    },
+    {
+      "nome": "Manifattura Placemakers",
+      "cat": "Ufficio",
+      "lat": 43.785353,
+      "lng": 11.223349,
+      "acc": 5,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-06-25T15:10:29.154Z"
     }
   ],
   "gruppi": [
@@ -17583,15 +17593,15 @@
           "Servizio"
         ],
         [
-          "Comété Beauty Space",
+          "ComÃ©tÃ© Beauty Space",
           "Servizio"
         ],
         [
-          "Fàbera Jewelry",
+          "FÃ bera Jewelry",
           "Negozio"
         ],
         [
-          "Hiroko — Bentō e Vini",
+          "Hiroko â BentÅ e Vini",
           "Ristorante"
         ],
         [
@@ -17624,11 +17634,11 @@
       "ed": "B5",
       "items": [
         [
-          "Shake Café",
-          "Bar / Café"
+          "Shake CafÃ©",
+          "Bar / CafÃ©"
         ],
         [
-          "Berberè",
+          "BerberÃ¨",
           "Ristorante"
         ],
         [
@@ -17645,7 +17655,7 @@
         ],
         [
           "Captain Santors",
-          "Bar / Café"
+          "Bar / CafÃ©"
         ],
         [
           "Pueco",
@@ -17660,7 +17670,7 @@
           "Servizio"
         ],
         [
-          "LVMH Métiers d'Excellence",
+          "LVMH MÃ©tiers d'Excellence",
           "Ufficio"
         ],
         [
@@ -17717,7 +17727,7 @@
           "Negozio"
         ],
         [
-          "Rifò",
+          "RifÃ²",
           "Negozio"
         ],
         [
@@ -17760,7 +17770,7 @@
           "Spazio B9"
         ],
         [
-          "Po'stò / Vivido",
+          "Po'stÃ² / Vivido",
           "Ristorante"
         ],
         [
@@ -17773,7 +17783,7 @@
       "ed": "B11",
       "items": [
         [
-          "Polimoda — B11",
+          "Polimoda â B11",
           "Scuola"
         ]
       ]
@@ -17796,7 +17806,7 @@
           "Piazza / Esterno"
         ],
         [
-          "Arno – Imaginary Topography",
+          "Arno â Imaginary Topography",
           "Piazza / Esterno"
         ],
         [
@@ -17840,5 +17850,5 @@
       ]
     }
   ],
-  "v": 1782400172311
+  "v": 1782400229154
 }
