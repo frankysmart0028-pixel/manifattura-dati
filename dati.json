@@ -17508,8 +17508,8 @@
       "ts": "2026-06-22T09:15:51.433Z"
     },
     {
-      "nome": "Shake Café",
-      "cat": "Bar / Café",
+      "nome": "Shake CafÃ©",
+      "cat": "Bar / CafÃ©",
       "lat": 43.785881,
       "lng": 11.22305,
       "acc": 4,
@@ -17548,6 +17548,297 @@
       "ts": "2026-06-22T09:40:00.340Z"
     }
   ],
-  "gruppi": [],
-  "v": 1782395212057
+  "gruppi": [
+    {
+      "ed": "B1",
+      "items": [
+        [
+          "Aparto",
+          "Servizio"
+        ],
+        [
+          "La Piadineria",
+          "Ristorante"
+        ]
+      ]
+    },
+    {
+      "ed": "B3",
+      "items": [
+        [
+          "Caveau",
+          "Servizio"
+        ]
+      ]
+    },
+    {
+      "ed": "B4",
+      "items": [
+        [
+          "Cuchiss Lab",
+          "Atelier"
+        ],
+        [
+          "Blend",
+          "Servizio"
+        ],
+        [
+          "Comété Beauty Space",
+          "Servizio"
+        ],
+        [
+          "Fàbera Jewelry",
+          "Negozio"
+        ],
+        [
+          "Hiroko — Bentō e Vini",
+          "Ristorante"
+        ],
+        [
+          "Live in MT Sales Office",
+          "Ufficio"
+        ],
+        [
+          "Noa Ink",
+          "Servizio"
+        ],
+        [
+          "Opera Prima",
+          "Negozio"
+        ],
+        [
+          "Polverenera Parrucchieri",
+          "Servizio"
+        ],
+        [
+          "Superduper",
+          "Negozio"
+        ],
+        [
+          "Zoo_Hub",
+          "Ufficio"
+        ]
+      ]
+    },
+    {
+      "ed": "B5",
+      "items": [
+        [
+          "Shake Café",
+          "Bar / Café"
+        ],
+        [
+          "Berberè",
+          "Ristorante"
+        ],
+        [
+          "Trek Bicycle",
+          "Negozio"
+        ],
+        [
+          "Bottega Biologica",
+          "Negozio"
+        ],
+        [
+          "Cool Farm / Mauna Kea",
+          "Ristorante"
+        ],
+        [
+          "Captain Santors",
+          "Bar / Café"
+        ],
+        [
+          "Pueco",
+          "Negozio"
+        ],
+        [
+          "Archivi Sartoriali",
+          "Atelier"
+        ],
+        [
+          "Blues Barber",
+          "Servizio"
+        ],
+        [
+          "LVMH Métiers d'Excellence",
+          "Ufficio"
+        ],
+        [
+          "Savills",
+          "Ufficio"
+        ],
+        [
+          "SDG Group",
+          "Ufficio"
+        ],
+        [
+          "ShippyPro",
+          "Ufficio"
+        ],
+        [
+          "PNAT",
+          "Ufficio"
+        ],
+        [
+          "Carbonsink",
+          "Ufficio"
+        ],
+        [
+          "Gruppo Florence",
+          "Ufficio"
+        ],
+        [
+          "Doghead Animation",
+          "Ufficio"
+        ],
+        [
+          "Assopellettieri",
+          "Ufficio"
+        ],
+        [
+          "A South Pole Company",
+          "Ufficio"
+        ]
+      ]
+    },
+    {
+      "ed": "B6",
+      "items": [
+        [
+          "Bulli & Balene",
+          "Ristorante"
+        ],
+        [
+          "Polimoda",
+          "Scuola"
+        ],
+        [
+          "Ecoalf",
+          "Negozio"
+        ],
+        [
+          "Rifò",
+          "Negozio"
+        ],
+        [
+          "Lostudioesse",
+          "Atelier"
+        ]
+      ]
+    },
+    {
+      "ed": "B7",
+      "items": [
+        [
+          "Pramac",
+          "Ufficio"
+        ]
+      ]
+    },
+    {
+      "ed": "B8",
+      "items": [
+        [
+          "E-RIHS",
+          "Ufficio"
+        ]
+      ]
+    },
+    {
+      "ed": "B9",
+      "items": [
+        [
+          "Manifattura Placemakers",
+          "Ufficio"
+        ],
+        [
+          "Associazione Arte Continua",
+          "Spazio B9"
+        ],
+        [
+          "Q-bic",
+          "Spazio B9"
+        ],
+        [
+          "Po'stò / Vivido",
+          "Ristorante"
+        ],
+        [
+          "Spazio Eventi B9",
+          "Spazio B9"
+        ]
+      ]
+    },
+    {
+      "ed": "B11",
+      "items": [
+        [
+          "Polimoda — B11",
+          "Scuola"
+        ]
+      ]
+    },
+    {
+      "ed": "BULK",
+      "items": [
+        [
+          "Synlab",
+          "Servizio"
+        ]
+      ]
+    },
+    {
+      "ed": "ESTERNI",
+      "port": false,
+      "items": [
+        [
+          "Toast Project Space",
+          "Piazza / Esterno"
+        ],
+        [
+          "Arno – Imaginary Topography",
+          "Piazza / Esterno"
+        ],
+        [
+          "Spazio Gioco / Play Area",
+          "Piazza / Esterno"
+        ],
+        [
+          "Tiny Artistic Homes",
+          "Piazza / Esterno"
+        ],
+        [
+          "Piazza Maria Montessori",
+          "Piazza / Esterno"
+        ],
+        [
+          "Piazza Francesca Morvillo",
+          "Piazza / Esterno"
+        ],
+        [
+          "Piazza delle Sigaraie",
+          "Piazza / Esterno"
+        ],
+        [
+          "Piazza Emanuela Loi",
+          "Piazza / Esterno"
+        ]
+      ]
+    },
+    {
+      "ed": "INGRESSI",
+      "port": false,
+      "items": [
+        [
+          "Ingresso Cascine 35",
+          "Ingresso"
+        ],
+        [
+          "Cancello Cascine",
+          "Ingresso"
+        ]
+      ]
+    }
+  ],
+  "v": 1782400172311
 }
