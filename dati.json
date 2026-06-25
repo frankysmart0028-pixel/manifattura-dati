@@ -17495,7 +17495,18 @@
       "fonte": "osm"
     }
   ],
-  "poi": [],
+  "poi": [
+    {
+      "id": "poi_1782400289356",
+      "titolo": "CIMINIERA",
+      "descrizione": "",
+      "lat": 43.785413160963095,
+      "lng": 11.223344533094739,
+      "acc": 10,
+      "bussola": 303,
+      "ts": "2026-06-25T15:11:29.356Z"
+    }
+  ],
   "dest": [
     {
       "nome": "Bottega Biologica",
@@ -17508,8 +17519,8 @@
       "ts": "2026-06-22T09:15:51.433Z"
     },
     {
-      "nome": "Shake CafÃÂ©",
-      "cat": "Bar / CafÃÂ©",
+      "nome": "Shake CafÃÂÃÂ©",
+      "cat": "Bar / CafÃÂÃÂ©",
       "lat": 43.785881,
       "lng": 11.22305,
       "acc": 4,
@@ -17593,15 +17604,15 @@
           "Servizio"
         ],
         [
-          "ComÃ©tÃ© Beauty Space",
+          "ComÃÂ©tÃÂ© Beauty Space",
           "Servizio"
         ],
         [
-          "FÃ bera Jewelry",
+          "FÃÂ bera Jewelry",
           "Negozio"
         ],
         [
-          "Hiroko â BentÅ e Vini",
+          "Hiroko Ã¢ÂÂ BentÃÂ e Vini",
           "Ristorante"
         ],
         [
@@ -17634,11 +17645,11 @@
       "ed": "B5",
       "items": [
         [
-          "Shake CafÃ©",
-          "Bar / CafÃ©"
+          "Shake CafÃÂ©",
+          "Bar / CafÃÂ©"
         ],
         [
-          "BerberÃ¨",
+          "BerberÃÂ¨",
           "Ristorante"
         ],
         [
@@ -17655,7 +17666,7 @@
         ],
         [
           "Captain Santors",
-          "Bar / CafÃ©"
+          "Bar / CafÃÂ©"
         ],
         [
           "Pueco",
@@ -17670,7 +17681,7 @@
           "Servizio"
         ],
         [
-          "LVMH MÃ©tiers d'Excellence",
+          "LVMH MÃÂ©tiers d'Excellence",
           "Ufficio"
         ],
         [
@@ -17727,7 +17738,7 @@
           "Negozio"
         ],
         [
-          "RifÃ²",
+          "RifÃÂ²",
           "Negozio"
         ],
         [
@@ -17770,7 +17781,7 @@
           "Spazio B9"
         ],
         [
-          "Po'stÃ² / Vivido",
+          "Po'stÃÂ² / Vivido",
           "Ristorante"
         ],
         [
@@ -17783,7 +17794,7 @@
       "ed": "B11",
       "items": [
         [
-          "Polimoda â B11",
+          "Polimoda Ã¢ÂÂ B11",
           "Scuola"
         ]
       ]
@@ -17806,7 +17817,7 @@
           "Piazza / Esterno"
         ],
         [
-          "Arno â Imaginary Topography",
+          "Arno Ã¢ÂÂ Imaginary Topography",
           "Piazza / Esterno"
         ],
         [
@@ -17850,5 +17861,5 @@
       ]
     }
   ],
-  "v": 1782400229154
+  "v": 1782400289356
 }
