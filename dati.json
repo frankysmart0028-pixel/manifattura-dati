@@ -3,224 +3,662 @@
     "nodi": {
       "N1": {
         "nome": "Punto 1",
-        "lat": 43.785684,
-        "lng": 11.22289,
+        "lat": 43.786347,
+        "lng": 11.222533,
         "auto": true
       },
       "N2": {
         "nome": "Punto 2",
-        "lat": 43.785684,
-        "lng": 11.222964,
+        "lat": 43.786347,
+        "lng": 11.222608,
         "auto": true
       },
       "N3": {
         "nome": "Punto 3",
-        "lat": 43.78563,
-        "lng": 11.22289,
+        "lat": 43.786347,
+        "lng": 11.222682,
         "auto": true
       },
       "N4": {
         "nome": "Punto 4",
-        "lat": 43.78563,
-        "lng": 11.222964,
+        "lat": 43.786293,
+        "lng": 11.222533,
         "auto": true
       },
       "N5": {
         "nome": "Punto 5",
-        "lat": 43.78563,
-        "lng": 11.223039,
+        "lat": 43.786293,
+        "lng": 11.222608,
         "auto": true
       },
       "N6": {
         "nome": "Punto 6",
-        "lat": 43.78563,
-        "lng": 11.223114,
+        "lat": 43.786293,
+        "lng": 11.222682,
         "auto": true
       },
       "N7": {
         "nome": "Punto 7",
-        "lat": 43.78563,
-        "lng": 11.223338,
+        "lat": 43.786293,
+        "lng": 11.222757,
         "auto": true
       },
       "N8": {
         "nome": "Punto 8",
-        "lat": 43.785576,
-        "lng": 11.22289,
+        "lat": 43.786293,
+        "lng": 11.222832,
         "auto": true
       },
       "N9": {
         "nome": "Punto 9",
-        "lat": 43.785576,
-        "lng": 11.222964,
+        "lat": 43.786239,
+        "lng": 11.222757,
         "auto": true
       },
       "N10": {
         "nome": "Punto 10",
-        "lat": 43.785576,
-        "lng": 11.223039,
+        "lat": 43.786239,
+        "lng": 11.222832,
         "auto": true
       },
       "N11": {
         "nome": "Punto 11",
-        "lat": 43.785576,
-        "lng": 11.223114,
+        "lat": 43.786239,
+        "lng": 11.222906,
         "auto": true
       },
       "N12": {
         "nome": "Punto 12",
-        "lat": 43.785576,
-        "lng": 11.223188,
+        "lat": 43.786239,
+        "lng": 11.222981,
         "auto": true
       },
       "N13": {
         "nome": "Punto 13",
-        "lat": 43.785576,
-        "lng": 11.223263,
+        "lat": 43.786239,
+        "lng": 11.223056,
         "auto": true
       },
       "N14": {
         "nome": "Punto 14",
-        "lat": 43.785576,
-        "lng": 11.223338,
+        "lat": 43.786185,
+        "lng": 11.222384,
         "auto": true
       },
       "N15": {
         "nome": "Punto 15",
-        "lat": 43.785523,
-        "lng": 11.222964,
+        "lat": 43.786185,
+        "lng": 11.222906,
         "auto": true
       },
       "N16": {
         "nome": "Punto 16",
-        "lat": 43.785523,
-        "lng": 11.223039,
+        "lat": 43.786185,
+        "lng": 11.222981,
         "auto": true
       },
       "N17": {
         "nome": "Punto 17",
-        "lat": 43.785523,
-        "lng": 11.223114,
+        "lat": 43.786185,
+        "lng": 11.223056,
         "auto": true
       },
       "N18": {
         "nome": "Punto 18",
-        "lat": 43.785523,
-        "lng": 11.223188,
+        "lat": 43.786185,
+        "lng": 11.22313,
         "auto": true
       },
       "N19": {
         "nome": "Punto 19",
-        "lat": 43.785523,
-        "lng": 11.223263,
+        "lat": 43.786185,
+        "lng": 11.223205,
         "auto": true
       },
       "N20": {
         "nome": "Punto 20",
-        "lat": 43.785523,
-        "lng": 11.223338,
+        "lat": 43.786132,
+        "lng": 11.222384,
         "auto": true
       },
       "N21": {
         "nome": "Punto 21",
-        "lat": 43.785523,
-        "lng": 11.223412,
+        "lat": 43.786132,
+        "lng": 11.222458,
         "auto": true
       },
       "N22": {
         "nome": "Punto 22",
-        "lat": 43.785469,
-        "lng": 11.223039,
+        "lat": 43.786132,
+        "lng": 11.222533,
         "auto": true
       },
       "N23": {
         "nome": "Punto 23",
-        "lat": 43.785469,
-        "lng": 11.223114,
+        "lat": 43.786132,
+        "lng": 11.222608,
         "auto": true
       },
       "N24": {
         "nome": "Punto 24",
-        "lat": 43.785469,
-        "lng": 11.223188,
+        "lat": 43.786132,
+        "lng": 11.22313,
         "auto": true
       },
       "N25": {
         "nome": "Punto 25",
-        "lat": 43.785469,
-        "lng": 11.223263,
+        "lat": 43.786132,
+        "lng": 11.223205,
         "auto": true
       },
       "N26": {
         "nome": "Punto 26",
-        "lat": 43.785469,
-        "lng": 11.223487,
+        "lat": 43.786132,
+        "lng": 11.22328,
         "auto": true
       },
       "N27": {
         "nome": "Punto 27",
-        "lat": 43.785469,
-        "lng": 11.223562,
+        "lat": 43.786132,
+        "lng": 11.223354,
         "auto": true
       },
       "N28": {
         "nome": "Punto 28",
-        "lat": 43.785415,
-        "lng": 11.223188,
+        "lat": 43.786132,
+        "lng": 11.223429,
         "auto": true
       },
       "N29": {
         "nome": "Punto 29",
-        "lat": 43.785415,
-        "lng": 11.223263,
+        "lat": 43.786132,
+        "lng": 11.223653,
         "auto": true
       },
       "N30": {
         "nome": "Punto 30",
-        "lat": 43.785415,
-        "lng": 11.223711,
+        "lat": 43.786078,
+        "lng": 11.222458,
         "auto": true
       },
       "N31": {
         "nome": "Punto 31",
-        "lat": 43.785361,
-        "lng": 11.223263,
+        "lat": 43.786078,
+        "lng": 11.222533,
         "auto": true
       },
       "N32": {
         "nome": "Punto 32",
-        "lat": 43.785361,
-        "lng": 11.223338,
+        "lat": 43.786078,
+        "lng": 11.222608,
         "auto": true
       },
       "N33": {
         "nome": "Punto 33",
-        "lat": 43.785361,
-        "lng": 11.223412,
+        "lat": 43.786078,
+        "lng": 11.222682,
         "auto": true
       },
       "N34": {
         "nome": "Punto 34",
-        "lat": 43.785307,
-        "lng": 11.223338,
+        "lat": 43.786078,
+        "lng": 11.222757,
         "auto": true
       },
       "N35": {
         "nome": "Punto 35",
-        "lat": 43.785307,
-        "lng": 11.223412,
+        "lat": 43.786078,
+        "lng": 11.22328,
         "auto": true
       },
       "N36": {
         "nome": "Punto 36",
-        "lat": 43.785307,
-        "lng": 11.223487,
+        "lat": 43.786078,
+        "lng": 11.223354,
         "auto": true
       },
       "N37": {
         "nome": "Punto 37",
-        "lat": 43.785253,
-        "lng": 11.223487,
+        "lat": 43.786078,
+        "lng": 11.223429,
+        "auto": true
+      },
+      "N38": {
+        "nome": "Punto 38",
+        "lat": 43.786078,
+        "lng": 11.223504,
+        "auto": true
+      },
+      "N39": {
+        "nome": "Punto 39",
+        "lat": 43.786078,
+        "lng": 11.223578,
+        "auto": true
+      },
+      "N40": {
+        "nome": "Punto 40",
+        "lat": 43.786024,
+        "lng": 11.222608,
+        "auto": true
+      },
+      "N41": {
+        "nome": "Punto 41",
+        "lat": 43.786024,
+        "lng": 11.222682,
+        "auto": true
+      },
+      "N42": {
+        "nome": "Punto 42",
+        "lat": 43.786024,
+        "lng": 11.222757,
+        "auto": true
+      },
+      "N43": {
+        "nome": "Punto 43",
+        "lat": 43.786024,
+        "lng": 11.222832,
+        "auto": true
+      },
+      "N44": {
+        "nome": "Punto 44",
+        "lat": 43.786024,
+        "lng": 11.222906,
+        "auto": true
+      },
+      "N45": {
+        "nome": "Punto 45",
+        "lat": 43.786024,
+        "lng": 11.222981,
+        "auto": true
+      },
+      "N46": {
+        "nome": "Punto 46",
+        "lat": 43.786024,
+        "lng": 11.223354,
+        "auto": true
+      },
+      "N47": {
+        "nome": "Punto 47",
+        "lat": 43.786024,
+        "lng": 11.223429,
+        "auto": true
+      },
+      "N48": {
+        "nome": "Punto 48",
+        "lat": 43.786024,
+        "lng": 11.223504,
+        "auto": true
+      },
+      "N49": {
+        "nome": "Punto 49",
+        "lat": 43.786024,
+        "lng": 11.223578,
+        "auto": true
+      },
+      "N50": {
+        "nome": "Punto 50",
+        "lat": 43.78597,
+        "lng": 11.222832,
+        "auto": true
+      },
+      "N51": {
+        "nome": "Punto 51",
+        "lat": 43.78597,
+        "lng": 11.222906,
+        "auto": true
+      },
+      "N52": {
+        "nome": "Punto 52",
+        "lat": 43.78597,
+        "lng": 11.222981,
+        "auto": true
+      },
+      "N53": {
+        "nome": "Punto 53",
+        "lat": 43.78597,
+        "lng": 11.223056,
+        "auto": true
+      },
+      "N54": {
+        "nome": "Punto 54",
+        "lat": 43.78597,
+        "lng": 11.22313,
+        "auto": true
+      },
+      "N55": {
+        "nome": "Punto 55",
+        "lat": 43.78597,
+        "lng": 11.223354,
+        "auto": true
+      },
+      "N56": {
+        "nome": "Punto 56",
+        "lat": 43.78597,
+        "lng": 11.223429,
+        "auto": true
+      },
+      "N57": {
+        "nome": "Punto 57",
+        "lat": 43.78597,
+        "lng": 11.223504,
+        "auto": true
+      },
+      "N58": {
+        "nome": "Punto 58",
+        "lat": 43.78597,
+        "lng": 11.223578,
+        "auto": true
+      },
+      "N59": {
+        "nome": "Punto 59",
+        "lat": 43.785916,
+        "lng": 11.222981,
+        "auto": true
+      },
+      "N60": {
+        "nome": "Punto 60",
+        "lat": 43.785916,
+        "lng": 11.223056,
+        "auto": true
+      },
+      "N61": {
+        "nome": "Punto 61",
+        "lat": 43.785916,
+        "lng": 11.22313,
+        "auto": true
+      },
+      "N62": {
+        "nome": "Punto 62",
+        "lat": 43.785916,
+        "lng": 11.223205,
+        "auto": true
+      },
+      "N63": {
+        "nome": "Punto 63",
+        "lat": 43.785916,
+        "lng": 11.22328,
+        "auto": true
+      },
+      "N64": {
+        "nome": "Punto 64",
+        "lat": 43.785916,
+        "lng": 11.223354,
+        "auto": true
+      },
+      "N65": {
+        "nome": "Punto 65",
+        "lat": 43.785916,
+        "lng": 11.223429,
+        "auto": true
+      },
+      "N66": {
+        "nome": "Punto 66",
+        "lat": 43.785916,
+        "lng": 11.223504,
+        "auto": true
+      },
+      "N67": {
+        "nome": "Punto 67",
+        "lat": 43.785862,
+        "lng": 11.223205,
+        "auto": true
+      },
+      "N68": {
+        "nome": "Punto 68",
+        "lat": 43.785862,
+        "lng": 11.22328,
+        "auto": true
+      },
+      "N69": {
+        "nome": "Punto 69",
+        "lat": 43.785862,
+        "lng": 11.223354,
+        "auto": true
+      },
+      "N70": {
+        "nome": "Punto 70",
+        "lat": 43.785862,
+        "lng": 11.223429,
+        "auto": true
+      },
+      "N71": {
+        "nome": "Punto 71",
+        "lat": 43.785862,
+        "lng": 11.223504,
+        "auto": true
+      },
+      "N72": {
+        "nome": "Punto 72",
+        "lat": 43.785808,
+        "lng": 11.223354,
+        "auto": true
+      },
+      "N73": {
+        "nome": "Punto 73",
+        "lat": 43.785808,
+        "lng": 11.223429,
+        "auto": true
+      },
+      "N74": {
+        "nome": "Punto 74",
+        "lat": 43.7857,
+        "lng": 11.222906,
+        "auto": true
+      },
+      "N75": {
+        "nome": "Punto 75",
+        "lat": 43.785646,
+        "lng": 11.222906,
+        "auto": true
+      },
+      "N76": {
+        "nome": "Punto 76",
+        "lat": 43.785646,
+        "lng": 11.222981,
+        "auto": true
+      },
+      "N77": {
+        "nome": "Punto 77",
+        "lat": 43.785646,
+        "lng": 11.223056,
+        "auto": true
+      },
+      "N78": {
+        "nome": "Punto 78",
+        "lat": 43.785646,
+        "lng": 11.223354,
+        "auto": true
+      },
+      "N79": {
+        "nome": "Punto 79",
+        "lat": 43.785593,
+        "lng": 11.222906,
+        "auto": true
+      },
+      "N80": {
+        "nome": "Punto 80",
+        "lat": 43.785593,
+        "lng": 11.222981,
+        "auto": true
+      },
+      "N81": {
+        "nome": "Punto 81",
+        "lat": 43.785593,
+        "lng": 11.223056,
+        "auto": true
+      },
+      "N82": {
+        "nome": "Punto 82",
+        "lat": 43.785593,
+        "lng": 11.22313,
+        "auto": true
+      },
+      "N83": {
+        "nome": "Punto 83",
+        "lat": 43.785593,
+        "lng": 11.223205,
+        "auto": true
+      },
+      "N84": {
+        "nome": "Punto 84",
+        "lat": 43.785593,
+        "lng": 11.22328,
+        "auto": true
+      },
+      "N85": {
+        "nome": "Punto 85",
+        "lat": 43.785593,
+        "lng": 11.223354,
+        "auto": true
+      },
+      "N86": {
+        "nome": "Punto 86",
+        "lat": 43.785539,
+        "lng": 11.222906,
+        "auto": true
+      },
+      "N87": {
+        "nome": "Punto 87",
+        "lat": 43.785539,
+        "lng": 11.222981,
+        "auto": true
+      },
+      "N88": {
+        "nome": "Punto 88",
+        "lat": 43.785539,
+        "lng": 11.223056,
+        "auto": true
+      },
+      "N89": {
+        "nome": "Punto 89",
+        "lat": 43.785539,
+        "lng": 11.22313,
+        "auto": true
+      },
+      "N90": {
+        "nome": "Punto 90",
+        "lat": 43.785539,
+        "lng": 11.223205,
+        "auto": true
+      },
+      "N91": {
+        "nome": "Punto 91",
+        "lat": 43.785539,
+        "lng": 11.22328,
+        "auto": true
+      },
+      "N92": {
+        "nome": "Punto 92",
+        "lat": 43.785539,
+        "lng": 11.223354,
+        "auto": true
+      },
+      "N93": {
+        "nome": "Punto 93",
+        "lat": 43.785485,
+        "lng": 11.223056,
+        "auto": true
+      },
+      "N94": {
+        "nome": "Punto 94",
+        "lat": 43.785485,
+        "lng": 11.22313,
+        "auto": true
+      },
+      "N95": {
+        "nome": "Punto 95",
+        "lat": 43.785485,
+        "lng": 11.223205,
+        "auto": true
+      },
+      "N96": {
+        "nome": "Punto 96",
+        "lat": 43.785485,
+        "lng": 11.22328,
+        "auto": true
+      },
+      "N97": {
+        "nome": "Punto 97",
+        "lat": 43.785485,
+        "lng": 11.223429,
+        "auto": true
+      },
+      "N98": {
+        "nome": "Punto 98",
+        "lat": 43.785485,
+        "lng": 11.223504,
+        "auto": true
+      },
+      "N99": {
+        "nome": "Punto 99",
+        "lat": 43.785431,
+        "lng": 11.22313,
+        "auto": true
+      },
+      "N100": {
+        "nome": "Punto 100",
+        "lat": 43.785431,
+        "lng": 11.223205,
+        "auto": true
+      },
+      "N101": {
+        "nome": "Punto 101",
+        "lat": 43.785431,
+        "lng": 11.223653,
+        "auto": true
+      },
+      "N102": {
+        "nome": "Punto 102",
+        "lat": 43.785431,
+        "lng": 11.223728,
+        "auto": true
+      },
+      "N103": {
+        "nome": "Punto 103",
+        "lat": 43.785377,
+        "lng": 11.223205,
+        "auto": true
+      },
+      "N104": {
+        "nome": "Punto 104",
+        "lat": 43.785377,
+        "lng": 11.22328,
+        "auto": true
+      },
+      "N105": {
+        "nome": "Punto 105",
+        "lat": 43.785377,
+        "lng": 11.223354,
+        "auto": true
+      },
+      "N106": {
+        "nome": "Punto 106",
+        "lat": 43.785323,
+        "lng": 11.223354,
+        "auto": true
+      },
+      "N107": {
+        "nome": "Punto 107",
+        "lat": 43.785323,
+        "lng": 11.223429,
+        "auto": true
+      },
+      "N108": {
+        "nome": "Punto 108",
+        "lat": 43.785323,
+        "lng": 11.223504,
+        "auto": true
+      },
+      "N109": {
+        "nome": "Punto 109",
+        "lat": 43.785269,
+        "lng": 11.223429,
+        "auto": true
+      },
+      "N110": {
+        "nome": "Punto 110",
+        "lat": 43.785269,
+        "lng": 11.223504,
         "auto": true
       }
     },
@@ -233,25 +671,25 @@
       },
       {
         "a": "N1",
+        "b": "N4",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N2",
         "b": "N3",
         "aperto": true,
         "auto": true
       },
       {
         "a": "N2",
-        "b": "N4",
+        "b": "N5",
         "aperto": true,
         "auto": true
       },
       {
         "a": "N3",
-        "b": "N4",
-        "aperto": true,
-        "auto": true
-      },
-      {
-        "a": "N3",
-        "b": "N8",
+        "b": "N6",
         "aperto": true,
         "auto": true
       },
@@ -262,38 +700,32 @@
         "auto": true
       },
       {
-        "a": "N4",
-        "b": "N9",
-        "aperto": true,
-        "auto": true
-      },
-      {
         "a": "N5",
         "b": "N6",
         "aperto": true,
         "auto": true
       },
       {
-        "a": "N5",
-        "b": "N10",
-        "aperto": true,
-        "auto": true
-      },
-      {
         "a": "N6",
-        "b": "N11",
+        "b": "N7",
         "aperto": true,
         "auto": true
       },
       {
         "a": "N7",
-        "b": "N14",
+        "b": "N8",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N7",
+        "b": "N9",
         "aperto": true,
         "auto": true
       },
       {
         "a": "N8",
-        "b": "N9",
+        "b": "N10",
         "aperto": true,
         "auto": true
       },
@@ -304,20 +736,8 @@
         "auto": true
       },
       {
-        "a": "N9",
-        "b": "N15",
-        "aperto": true,
-        "auto": true
-      },
-      {
         "a": "N10",
         "b": "N11",
-        "aperto": true,
-        "auto": true
-      },
-      {
-        "a": "N10",
-        "b": "N16",
         "aperto": true,
         "auto": true
       },
@@ -329,7 +749,7 @@
       },
       {
         "a": "N11",
-        "b": "N17",
+        "b": "N15",
         "aperto": true,
         "auto": true
       },
@@ -341,19 +761,13 @@
       },
       {
         "a": "N12",
-        "b": "N18",
+        "b": "N16",
         "aperto": true,
         "auto": true
       },
       {
         "a": "N13",
-        "b": "N14",
-        "aperto": true,
-        "auto": true
-      },
-      {
-        "a": "N13",
-        "b": "N19",
+        "b": "N17",
         "aperto": true,
         "auto": true
       },
@@ -376,20 +790,8 @@
         "auto": true
       },
       {
-        "a": "N16",
-        "b": "N22",
-        "aperto": true,
-        "auto": true
-      },
-      {
         "a": "N17",
         "b": "N18",
-        "aperto": true,
-        "auto": true
-      },
-      {
-        "a": "N17",
-        "b": "N23",
         "aperto": true,
         "auto": true
       },
@@ -407,12 +809,6 @@
       },
       {
         "a": "N19",
-        "b": "N20",
-        "aperto": true,
-        "auto": true
-      },
-      {
-        "a": "N19",
         "b": "N25",
         "aperto": true,
         "auto": true
@@ -424,14 +820,32 @@
         "auto": true
       },
       {
+        "a": "N21",
+        "b": "N22",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N21",
+        "b": "N30",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N22",
         "b": "N23",
         "aperto": true,
         "auto": true
       },
       {
+        "a": "N22",
+        "b": "N31",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N23",
-        "b": "N24",
+        "b": "N32",
         "aperto": true,
         "auto": true
       },
@@ -442,14 +856,8 @@
         "auto": true
       },
       {
-        "a": "N24",
-        "b": "N28",
-        "aperto": true,
-        "auto": true
-      },
-      {
         "a": "N25",
-        "b": "N29",
+        "b": "N26",
         "aperto": true,
         "auto": true
       },
@@ -460,13 +868,31 @@
         "auto": true
       },
       {
-        "a": "N28",
-        "b": "N29",
+        "a": "N26",
+        "b": "N35",
         "aperto": true,
         "auto": true
       },
       {
-        "a": "N29",
+        "a": "N27",
+        "b": "N28",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N27",
+        "b": "N36",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N28",
+        "b": "N37",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N30",
         "b": "N31",
         "aperto": true,
         "auto": true
@@ -485,19 +911,25 @@
       },
       {
         "a": "N32",
+        "b": "N40",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N33",
         "b": "N34",
         "aperto": true,
         "auto": true
       },
       {
         "a": "N33",
-        "b": "N35",
+        "b": "N41",
         "aperto": true,
         "auto": true
       },
       {
         "a": "N34",
-        "b": "N35",
+        "b": "N42",
         "aperto": true,
         "auto": true
       },
@@ -514,16 +946,627 @@
         "auto": true
       },
       {
-        "a": "N21",
-        "b": "N26",
+        "a": "N36",
+        "b": "N46",
         "aperto": true,
         "auto": true
       },
       {
-        "a": "N27",
-        "b": "N30",
+        "a": "N37",
+        "b": "N38",
         "aperto": true,
         "auto": true
+      },
+      {
+        "a": "N37",
+        "b": "N47",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N38",
+        "b": "N39",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N38",
+        "b": "N48",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N39",
+        "b": "N49",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N40",
+        "b": "N41",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N41",
+        "b": "N42",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N42",
+        "b": "N43",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N43",
+        "b": "N44",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N43",
+        "b": "N50",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N44",
+        "b": "N45",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N44",
+        "b": "N51",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N45",
+        "b": "N52",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N46",
+        "b": "N47",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N46",
+        "b": "N55",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N47",
+        "b": "N48",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N47",
+        "b": "N56",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N48",
+        "b": "N49",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N48",
+        "b": "N57",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N49",
+        "b": "N58",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N50",
+        "b": "N51",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N51",
+        "b": "N52",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N52",
+        "b": "N53",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N52",
+        "b": "N59",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N53",
+        "b": "N54",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N53",
+        "b": "N60",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N54",
+        "b": "N61",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N55",
+        "b": "N56",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N55",
+        "b": "N64",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N56",
+        "b": "N57",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N56",
+        "b": "N65",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N57",
+        "b": "N58",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N57",
+        "b": "N66",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N59",
+        "b": "N60",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N60",
+        "b": "N61",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N61",
+        "b": "N62",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N62",
+        "b": "N63",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N62",
+        "b": "N67",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N63",
+        "b": "N64",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N63",
+        "b": "N68",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N64",
+        "b": "N65",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N64",
+        "b": "N69",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N65",
+        "b": "N66",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N65",
+        "b": "N70",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N66",
+        "b": "N71",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N67",
+        "b": "N68",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N68",
+        "b": "N69",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N69",
+        "b": "N70",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N69",
+        "b": "N72",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N70",
+        "b": "N71",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N70",
+        "b": "N73",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N72",
+        "b": "N73",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N74",
+        "b": "N75",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N75",
+        "b": "N76",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N75",
+        "b": "N79",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N76",
+        "b": "N77",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N76",
+        "b": "N80",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N77",
+        "b": "N81",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N78",
+        "b": "N85",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N79",
+        "b": "N80",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N79",
+        "b": "N86",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N80",
+        "b": "N81",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N80",
+        "b": "N87",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N81",
+        "b": "N82",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N81",
+        "b": "N88",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N82",
+        "b": "N83",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N82",
+        "b": "N89",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N83",
+        "b": "N84",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N83",
+        "b": "N90",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N84",
+        "b": "N85",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N84",
+        "b": "N91",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N86",
+        "b": "N87",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N87",
+        "b": "N88",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N88",
+        "b": "N89",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N88",
+        "b": "N93",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N89",
+        "b": "N90",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N89",
+        "b": "N94",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N90",
+        "b": "N91",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N90",
+        "b": "N95",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N91",
+        "b": "N92",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N91",
+        "b": "N96",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N93",
+        "b": "N94",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N94",
+        "b": "N95",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N94",
+        "b": "N99",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N95",
+        "b": "N96",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N95",
+        "b": "N100",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N97",
+        "b": "N98",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N99",
+        "b": "N100",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N100",
+        "b": "N103",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N101",
+        "b": "N102",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N103",
+        "b": "N104",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N104",
+        "b": "N105",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N105",
+        "b": "N106",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N106",
+        "b": "N107",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N107",
+        "b": "N108",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N107",
+        "b": "N109",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N108",
+        "b": "N110",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N109",
+        "b": "N110",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N39",
+        "b": "N29",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N92",
+        "b": "N97",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N98",
+        "b": "N101",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N73",
+        "b": "N78",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N78",
+        "b": "N71",
+        "aperto": true
       }
     ]
   },
@@ -13799,5 +14842,5 @@
       ]
     }
   ],
-  "v": 1782828111995
+  "v": 1782828134580
 }
