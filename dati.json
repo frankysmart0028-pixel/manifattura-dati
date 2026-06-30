@@ -117,78 +117,108 @@
       },
       "N20": {
         "nome": "Punto 20",
-        "lat": 43.785469,
-        "lng": 11.223039,
+        "lat": 43.785523,
+        "lng": 11.223338,
         "auto": true
       },
       "N21": {
         "nome": "Punto 21",
-        "lat": 43.785469,
-        "lng": 11.223114,
+        "lat": 43.785523,
+        "lng": 11.223412,
         "auto": true
       },
       "N22": {
         "nome": "Punto 22",
         "lat": 43.785469,
-        "lng": 11.223188,
+        "lng": 11.223039,
         "auto": true
       },
       "N23": {
         "nome": "Punto 23",
         "lat": 43.785469,
-        "lng": 11.223263,
+        "lng": 11.223114,
         "auto": true
       },
       "N24": {
         "nome": "Punto 24",
-        "lat": 43.785415,
+        "lat": 43.785469,
         "lng": 11.223188,
         "auto": true
       },
       "N25": {
         "nome": "Punto 25",
-        "lat": 43.785415,
+        "lat": 43.785469,
         "lng": 11.223263,
         "auto": true
       },
       "N26": {
         "nome": "Punto 26",
-        "lat": 43.785361,
-        "lng": 11.223263,
+        "lat": 43.785469,
+        "lng": 11.223487,
         "auto": true
       },
       "N27": {
         "nome": "Punto 27",
-        "lat": 43.785361,
-        "lng": 11.223338,
+        "lat": 43.785469,
+        "lng": 11.223562,
         "auto": true
       },
       "N28": {
         "nome": "Punto 28",
-        "lat": 43.785361,
-        "lng": 11.223412,
+        "lat": 43.785415,
+        "lng": 11.223188,
         "auto": true
       },
       "N29": {
         "nome": "Punto 29",
-        "lat": 43.785307,
-        "lng": 11.223338,
+        "lat": 43.785415,
+        "lng": 11.223263,
         "auto": true
       },
       "N30": {
         "nome": "Punto 30",
-        "lat": 43.785307,
-        "lng": 11.223412,
+        "lat": 43.785415,
+        "lng": 11.223711,
         "auto": true
       },
       "N31": {
         "nome": "Punto 31",
-        "lat": 43.785307,
-        "lng": 11.223487,
+        "lat": 43.785361,
+        "lng": 11.223263,
         "auto": true
       },
       "N32": {
         "nome": "Punto 32",
+        "lat": 43.785361,
+        "lng": 11.223338,
+        "auto": true
+      },
+      "N33": {
+        "nome": "Punto 33",
+        "lat": 43.785361,
+        "lng": 11.223412,
+        "auto": true
+      },
+      "N34": {
+        "nome": "Punto 34",
+        "lat": 43.785307,
+        "lng": 11.223338,
+        "auto": true
+      },
+      "N35": {
+        "nome": "Punto 35",
+        "lat": 43.785307,
+        "lng": 11.223412,
+        "auto": true
+      },
+      "N36": {
+        "nome": "Punto 36",
+        "lat": 43.785307,
+        "lng": 11.223487,
+        "auto": true
+      },
+      "N37": {
+        "nome": "Punto 37",
         "lat": 43.785253,
         "lng": 11.223487,
         "auto": true
@@ -328,6 +358,12 @@
         "auto": true
       },
       {
+        "a": "N14",
+        "b": "N20",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N15",
         "b": "N16",
         "aperto": true,
@@ -341,7 +377,7 @@
       },
       {
         "a": "N16",
-        "b": "N20",
+        "b": "N22",
         "aperto": true,
         "auto": true
       },
@@ -353,7 +389,7 @@
       },
       {
         "a": "N17",
-        "b": "N21",
+        "b": "N23",
         "aperto": true,
         "auto": true
       },
@@ -365,13 +401,19 @@
       },
       {
         "a": "N18",
-        "b": "N22",
+        "b": "N24",
         "aperto": true,
         "auto": true
       },
       {
         "a": "N19",
-        "b": "N23",
+        "b": "N20",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N19",
+        "b": "N25",
         "aperto": true,
         "auto": true
       },
@@ -382,26 +424,14 @@
         "auto": true
       },
       {
-        "a": "N21",
-        "b": "N22",
-        "aperto": true,
-        "auto": true
-      },
-      {
         "a": "N22",
         "b": "N23",
         "aperto": true,
         "auto": true
       },
       {
-        "a": "N22",
-        "b": "N24",
-        "aperto": true,
-        "auto": true
-      },
-      {
         "a": "N23",
-        "b": "N25",
+        "b": "N24",
         "aperto": true,
         "auto": true
       },
@@ -412,8 +442,14 @@
         "auto": true
       },
       {
+        "a": "N24",
+        "b": "N28",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N25",
-        "b": "N26",
+        "b": "N29",
         "aperto": true,
         "auto": true
       },
@@ -424,31 +460,13 @@
         "auto": true
       },
       {
-        "a": "N27",
-        "b": "N28",
-        "aperto": true,
-        "auto": true
-      },
-      {
-        "a": "N27",
+        "a": "N28",
         "b": "N29",
         "aperto": true,
         "auto": true
       },
       {
-        "a": "N28",
-        "b": "N30",
-        "aperto": true,
-        "auto": true
-      },
-      {
         "a": "N29",
-        "b": "N30",
-        "aperto": true,
-        "auto": true
-      },
-      {
-        "a": "N30",
         "b": "N31",
         "aperto": true,
         "auto": true
@@ -456,6 +474,54 @@
       {
         "a": "N31",
         "b": "N32",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N32",
+        "b": "N33",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N32",
+        "b": "N34",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N33",
+        "b": "N35",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N34",
+        "b": "N35",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N35",
+        "b": "N36",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N36",
+        "b": "N37",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N21",
+        "b": "N26",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N27",
+        "b": "N30",
         "aperto": true,
         "auto": true
       }
@@ -13677,5 +13743,5 @@
       ]
     }
   ],
-  "v": 1782828071423
+  "v": 1782828073644
 }
