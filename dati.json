@@ -1310,6 +1310,136 @@
         "nome": "Punto 262",
         "lat": 43.785226,
         "lng": 11.223493
+      },
+      "N263": {
+        "nome": "Punto 263",
+        "lat": 43.786549,
+        "lng": 11.223163
+      },
+      "N264": {
+        "nome": "Punto 264",
+        "lat": 43.786549,
+        "lng": 11.223237
+      },
+      "N265": {
+        "nome": "Punto 265",
+        "lat": 43.786549,
+        "lng": 11.223312
+      },
+      "N266": {
+        "nome": "Punto 266",
+        "lat": 43.786495,
+        "lng": 11.223237
+      },
+      "N267": {
+        "nome": "Punto 267",
+        "lat": 43.786495,
+        "lng": 11.223312
+      },
+      "N268": {
+        "nome": "Punto 268",
+        "lat": 43.786495,
+        "lng": 11.223387
+      },
+      "N269": {
+        "nome": "Punto 269",
+        "lat": 43.786495,
+        "lng": 11.223461
+      },
+      "N270": {
+        "nome": "Punto 270",
+        "lat": 43.786441,
+        "lng": 11.223312
+      },
+      "N271": {
+        "nome": "Punto 271",
+        "lat": 43.786441,
+        "lng": 11.223387
+      },
+      "N272": {
+        "nome": "Punto 272",
+        "lat": 43.786441,
+        "lng": 11.223461
+      },
+      "N273": {
+        "nome": "Punto 273",
+        "lat": 43.786441,
+        "lng": 11.223536
+      },
+      "N274": {
+        "nome": "Punto 274",
+        "lat": 43.786441,
+        "lng": 11.223611
+      },
+      "N275": {
+        "nome": "Punto 275",
+        "lat": 43.786387,
+        "lng": 11.223312
+      },
+      "N276": {
+        "nome": "Punto 276",
+        "lat": 43.786387,
+        "lng": 11.223387
+      },
+      "N277": {
+        "nome": "Punto 277",
+        "lat": 43.786387,
+        "lng": 11.223461
+      },
+      "N278": {
+        "nome": "Punto 278",
+        "lat": 43.786387,
+        "lng": 11.223536
+      },
+      "N279": {
+        "nome": "Punto 279",
+        "lat": 43.786387,
+        "lng": 11.223611
+      },
+      "N280": {
+        "nome": "Punto 280",
+        "lat": 43.786387,
+        "lng": 11.223685
+      },
+      "N281": {
+        "nome": "Punto 281",
+        "lat": 43.786387,
+        "lng": 11.22376
+      },
+      "N282": {
+        "nome": "Punto 282",
+        "lat": 43.786387,
+        "lng": 11.223835
+      },
+      "N283": {
+        "nome": "Punto 283",
+        "lat": 43.786334,
+        "lng": 11.223536
+      },
+      "N284": {
+        "nome": "Punto 284",
+        "lat": 43.786334,
+        "lng": 11.223611
+      },
+      "N285": {
+        "nome": "Punto 285",
+        "lat": 43.786334,
+        "lng": 11.223685
+      },
+      "N286": {
+        "nome": "Punto 286",
+        "lat": 43.786334,
+        "lng": 11.22376
+      },
+      "N287": {
+        "nome": "Punto 287",
+        "lat": 43.78628,
+        "lng": 11.223685
+      },
+      "N288": {
+        "nome": "Punto 288",
+        "lat": 43.78628,
+        "lng": 11.22376
       }
     },
     "archi": [
@@ -4722,6 +4852,336 @@
         "a": "N222",
         "b": "N206",
         "aperto": true
+      },
+      {
+        "a": "N263",
+        "b": "N264",
+        "aperto": true
+      },
+      {
+        "a": "N263",
+        "b": "N266",
+        "aperto": true
+      },
+      {
+        "a": "N264",
+        "b": "N265",
+        "aperto": true
+      },
+      {
+        "a": "N264",
+        "b": "N266",
+        "aperto": true
+      },
+      {
+        "a": "N264",
+        "b": "N267",
+        "aperto": true
+      },
+      {
+        "a": "N265",
+        "b": "N267",
+        "aperto": true
+      },
+      {
+        "a": "N265",
+        "b": "N268",
+        "aperto": true
+      },
+      {
+        "a": "N265",
+        "b": "N266",
+        "aperto": true
+      },
+      {
+        "a": "N266",
+        "b": "N267",
+        "aperto": true
+      },
+      {
+        "a": "N266",
+        "b": "N270",
+        "aperto": true
+      },
+      {
+        "a": "N267",
+        "b": "N268",
+        "aperto": true
+      },
+      {
+        "a": "N267",
+        "b": "N270",
+        "aperto": true
+      },
+      {
+        "a": "N267",
+        "b": "N271",
+        "aperto": true
+      },
+      {
+        "a": "N268",
+        "b": "N269",
+        "aperto": true
+      },
+      {
+        "a": "N268",
+        "b": "N271",
+        "aperto": true
+      },
+      {
+        "a": "N268",
+        "b": "N272",
+        "aperto": true
+      },
+      {
+        "a": "N268",
+        "b": "N270",
+        "aperto": true
+      },
+      {
+        "a": "N269",
+        "b": "N272",
+        "aperto": true
+      },
+      {
+        "a": "N269",
+        "b": "N273",
+        "aperto": true
+      },
+      {
+        "a": "N269",
+        "b": "N271",
+        "aperto": true
+      },
+      {
+        "a": "N270",
+        "b": "N271",
+        "aperto": true
+      },
+      {
+        "a": "N270",
+        "b": "N275",
+        "aperto": true
+      },
+      {
+        "a": "N270",
+        "b": "N276",
+        "aperto": true
+      },
+      {
+        "a": "N271",
+        "b": "N272",
+        "aperto": true
+      },
+      {
+        "a": "N271",
+        "b": "N276",
+        "aperto": true
+      },
+      {
+        "a": "N271",
+        "b": "N277",
+        "aperto": true
+      },
+      {
+        "a": "N271",
+        "b": "N275",
+        "aperto": true
+      },
+      {
+        "a": "N272",
+        "b": "N273",
+        "aperto": true
+      },
+      {
+        "a": "N272",
+        "b": "N277",
+        "aperto": true
+      },
+      {
+        "a": "N272",
+        "b": "N278",
+        "aperto": true
+      },
+      {
+        "a": "N272",
+        "b": "N276",
+        "aperto": true
+      },
+      {
+        "a": "N273",
+        "b": "N274",
+        "aperto": true
+      },
+      {
+        "a": "N273",
+        "b": "N278",
+        "aperto": true
+      },
+      {
+        "a": "N273",
+        "b": "N279",
+        "aperto": true
+      },
+      {
+        "a": "N273",
+        "b": "N277",
+        "aperto": true
+      },
+      {
+        "a": "N274",
+        "b": "N279",
+        "aperto": true
+      },
+      {
+        "a": "N274",
+        "b": "N280",
+        "aperto": true
+      },
+      {
+        "a": "N274",
+        "b": "N278",
+        "aperto": true
+      },
+      {
+        "a": "N275",
+        "b": "N276",
+        "aperto": true
+      },
+      {
+        "a": "N276",
+        "b": "N277",
+        "aperto": true
+      },
+      {
+        "a": "N277",
+        "b": "N278",
+        "aperto": true
+      },
+      {
+        "a": "N277",
+        "b": "N283",
+        "aperto": true
+      },
+      {
+        "a": "N278",
+        "b": "N279",
+        "aperto": true
+      },
+      {
+        "a": "N278",
+        "b": "N283",
+        "aperto": true
+      },
+      {
+        "a": "N278",
+        "b": "N284",
+        "aperto": true
+      },
+      {
+        "a": "N279",
+        "b": "N280",
+        "aperto": true
+      },
+      {
+        "a": "N279",
+        "b": "N284",
+        "aperto": true
+      },
+      {
+        "a": "N279",
+        "b": "N285",
+        "aperto": true
+      },
+      {
+        "a": "N279",
+        "b": "N283",
+        "aperto": true
+      },
+      {
+        "a": "N280",
+        "b": "N281",
+        "aperto": true
+      },
+      {
+        "a": "N280",
+        "b": "N285",
+        "aperto": true
+      },
+      {
+        "a": "N280",
+        "b": "N286",
+        "aperto": true
+      },
+      {
+        "a": "N280",
+        "b": "N284",
+        "aperto": true
+      },
+      {
+        "a": "N281",
+        "b": "N282",
+        "aperto": true
+      },
+      {
+        "a": "N281",
+        "b": "N286",
+        "aperto": true
+      },
+      {
+        "a": "N281",
+        "b": "N285",
+        "aperto": true
+      },
+      {
+        "a": "N282",
+        "b": "N286",
+        "aperto": true
+      },
+      {
+        "a": "N283",
+        "b": "N284",
+        "aperto": true
+      },
+      {
+        "a": "N284",
+        "b": "N285",
+        "aperto": true
+      },
+      {
+        "a": "N284",
+        "b": "N287",
+        "aperto": true
+      },
+      {
+        "a": "N285",
+        "b": "N286",
+        "aperto": true
+      },
+      {
+        "a": "N285",
+        "b": "N287",
+        "aperto": true
+      },
+      {
+        "a": "N285",
+        "b": "N288",
+        "aperto": true
+      },
+      {
+        "a": "N286",
+        "b": "N288",
+        "aperto": true
+      },
+      {
+        "a": "N286",
+        "b": "N287",
+        "aperto": true
+      },
+      {
+        "a": "N287",
+        "b": "N288",
+        "aperto": true
       }
     ]
   },
@@ -4751,6 +5211,7 @@
       11.220871
     ]
   ],
+  "superficie": null,
   "edifici": [
     {
       "nome": "B11",
@@ -17519,8 +17980,8 @@
       "ts": "2026-06-22T09:15:51.433Z"
     },
     {
-      "nome": "Shake CafÃÂÃÂ©",
-      "cat": "Bar / CafÃÂÃÂ©",
+      "nome": "Shake CafÃÂÃÂÃÂÃÂ©",
+      "cat": "Bar / CafÃÂÃÂÃÂÃÂ©",
       "lat": 43.785881,
       "lng": 11.22305,
       "acc": 4,
@@ -17604,15 +18065,15 @@
           "Servizio"
         ],
         [
-          "ComÃÂ©tÃÂ© Beauty Space",
+          "ComÃÂÃÂ©tÃÂÃÂ© Beauty Space",
           "Servizio"
         ],
         [
-          "FÃÂ bera Jewelry",
+          "FÃÂÃÂ bera Jewelry",
           "Negozio"
         ],
         [
-          "Hiroko Ã¢ÂÂ BentÃÂ e Vini",
+          "Hiroko ÃÂ¢ÃÂÃÂ BentÃÂÃÂ e Vini",
           "Ristorante"
         ],
         [
@@ -17645,11 +18106,11 @@
       "ed": "B5",
       "items": [
         [
-          "Shake CafÃÂ©",
-          "Bar / CafÃÂ©"
+          "Shake CafÃÂÃÂ©",
+          "Bar / CafÃÂÃÂ©"
         ],
         [
-          "BerberÃÂ¨",
+          "BerberÃÂÃÂ¨",
           "Ristorante"
         ],
         [
@@ -17666,7 +18127,7 @@
         ],
         [
           "Captain Santors",
-          "Bar / CafÃÂ©"
+          "Bar / CafÃÂÃÂ©"
         ],
         [
           "Pueco",
@@ -17681,7 +18142,7 @@
           "Servizio"
         ],
         [
-          "LVMH MÃÂ©tiers d'Excellence",
+          "LVMH MÃÂÃÂ©tiers d'Excellence",
           "Ufficio"
         ],
         [
@@ -17738,7 +18199,7 @@
           "Negozio"
         ],
         [
-          "RifÃÂ²",
+          "RifÃÂÃÂ²",
           "Negozio"
         ],
         [
@@ -17781,7 +18242,7 @@
           "Spazio B9"
         ],
         [
-          "Po'stÃÂ² / Vivido",
+          "Po'stÃÂÃÂ² / Vivido",
           "Ristorante"
         ],
         [
@@ -17794,7 +18255,7 @@
       "ed": "B11",
       "items": [
         [
-          "Polimoda Ã¢ÂÂ B11",
+          "Polimoda ÃÂ¢ÃÂÃÂ B11",
           "Scuola"
         ]
       ]
@@ -17817,7 +18278,7 @@
           "Piazza / Esterno"
         ],
         [
-          "Arno Ã¢ÂÂ Imaginary Topography",
+          "Arno ÃÂ¢ÃÂÃÂ Imaginary Topography",
           "Piazza / Esterno"
         ],
         [
@@ -17861,5 +18322,5 @@
       ]
     }
   ],
-  "v": 1782400289356
+  "v": 1782826498756
 }
