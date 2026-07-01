@@ -16794,7 +16794,32 @@
       "fonte": "osm"
     }
   ],
-  "poi": [],
+  "poi": [
+    {
+      "id": "poi_1782889648128",
+      "titolo": "ciminiera",
+      "descrizione": "",
+      "lat": 43.785600333888205,
+      "lng": 11.223146088317185,
+      "acc": 8,
+      "bussola": 273,
+      "ts": "2026-07-01T07:07:28.128Z",
+      "box": {
+        "cx": 0.5473,
+        "cy": 0.3299,
+        "w": 0.2341,
+        "h": 0.3291
+      },
+      "headingCattura": 272.6,
+      "pitchCattura": 108.4,
+      "bearingObj": 275.8,
+      "fovH": 66,
+      "fovV": 50,
+      "distanzaStimata": 12,
+      "larghezzaAng": 15.4,
+      "altezzaAng": 16.5
+    }
+  ],
   "dest": [
     {
       "nome": "Bottega Biologica",
@@ -17149,5 +17174,5 @@
       ]
     }
   ],
-  "v": 1782889593004
+  "v": 1782889648128
 }
