@@ -1752,6 +1752,270 @@
         "lat": 43.786145,
         "lng": 11.22408,
         "auto": true
+      },
+      "N293": {
+        "nome": "Punto 293",
+        "lat": 43.786846,
+        "lng": 11.222493,
+        "auto": true
+      },
+      "N294": {
+        "nome": "Punto 294",
+        "lat": 43.786863,
+        "lng": 11.222423,
+        "auto": true
+      },
+      "N295": {
+        "nome": "Punto 295",
+        "lat": 43.786879,
+        "lng": 11.222352,
+        "auto": true
+      },
+      "N296": {
+        "nome": "Punto 296",
+        "lat": 43.7869,
+        "lng": 11.222283,
+        "auto": true
+      },
+      "N297": {
+        "nome": "Punto 297",
+        "lat": 43.786924,
+        "lng": 11.222216,
+        "auto": true
+      },
+      "N298": {
+        "nome": "Punto 298",
+        "lat": 43.786947,
+        "lng": 11.222148,
+        "auto": true
+      },
+      "N299": {
+        "nome": "Punto 299",
+        "lat": 43.786967,
+        "lng": 11.222079,
+        "auto": true
+      },
+      "N300": {
+        "nome": "Punto 300",
+        "lat": 43.786985,
+        "lng": 11.222009,
+        "auto": true
+      },
+      "N301": {
+        "nome": "Punto 301",
+        "lat": 43.787005,
+        "lng": 11.221939,
+        "auto": true
+      },
+      "N302": {
+        "nome": "Punto 302",
+        "lat": 43.787027,
+        "lng": 11.221871,
+        "auto": true
+      },
+      "N303": {
+        "nome": "Punto 303",
+        "lat": 43.787048,
+        "lng": 11.221802,
+        "auto": true
+      },
+      "N304": {
+        "nome": "Punto 304",
+        "lat": 43.787069,
+        "lng": 11.221734,
+        "auto": true
+      },
+      "N305": {
+        "nome": "Punto 305",
+        "lat": 43.787091,
+        "lng": 11.221665,
+        "auto": true
+      },
+      "N306": {
+        "nome": "Punto 306",
+        "lat": 43.787112,
+        "lng": 11.221596,
+        "auto": true
+      },
+      "N307": {
+        "nome": "Punto 307",
+        "lat": 43.787136,
+        "lng": 11.221535,
+        "auto": true
+      },
+      "N308": {
+        "nome": "Punto 308",
+        "lat": 43.787186,
+        "lng": 11.221561,
+        "auto": true
+      },
+      "N309": {
+        "nome": "Punto 309",
+        "lat": 43.787237,
+        "lng": 11.221588,
+        "auto": true
+      },
+      "N310": {
+        "nome": "Punto 310",
+        "lat": 43.787287,
+        "lng": 11.221614,
+        "auto": true
+      },
+      "N311": {
+        "nome": "Punto 311",
+        "lat": 43.787337,
+        "lng": 11.221642,
+        "auto": true
+      },
+      "N312": {
+        "nome": "Punto 312",
+        "lat": 43.787387,
+        "lng": 11.221671,
+        "auto": true
+      },
+      "N313": {
+        "nome": "Punto 313",
+        "lat": 43.787437,
+        "lng": 11.2217,
+        "auto": true
+      },
+      "N314": {
+        "nome": "Punto 314",
+        "lat": 43.787429,
+        "lng": 11.221696,
+        "auto": true
+      },
+      "N315": {
+        "nome": "Punto 315",
+        "lat": 43.787379,
+        "lng": 11.221669,
+        "auto": true
+      },
+      "N316": {
+        "nome": "Punto 316",
+        "lat": 43.787329,
+        "lng": 11.221641,
+        "auto": true
+      },
+      "N317": {
+        "nome": "Punto 317",
+        "lat": 43.787279,
+        "lng": 11.221613,
+        "auto": true
+      },
+      "N318": {
+        "nome": "Punto 318",
+        "lat": 43.787229,
+        "lng": 11.221586,
+        "auto": true
+      },
+      "N319": {
+        "nome": "Punto 319",
+        "lat": 43.787178,
+        "lng": 11.221558,
+        "auto": true
+      },
+      "N320": {
+        "nome": "Punto 320",
+        "lat": 43.787128,
+        "lng": 11.221531,
+        "auto": true
+      },
+      "N321": {
+        "nome": "Punto 321",
+        "lat": 43.78708,
+        "lng": 11.221498,
+        "auto": true
+      },
+      "N322": {
+        "nome": "Punto 322",
+        "lat": 43.787031,
+        "lng": 11.221465,
+        "auto": true
+      },
+      "N323": {
+        "nome": "Punto 323",
+        "lat": 43.786981,
+        "lng": 11.221437,
+        "auto": true
+      },
+      "N324": {
+        "nome": "Punto 324",
+        "lat": 43.786931,
+        "lng": 11.22141,
+        "auto": true
+      },
+      "N325": {
+        "nome": "Punto 325",
+        "lat": 43.786881,
+        "lng": 11.221382,
+        "auto": true
+      },
+      "N326": {
+        "nome": "Punto 326",
+        "lat": 43.786831,
+        "lng": 11.221354,
+        "auto": true
+      },
+      "N327": {
+        "nome": "Punto 327",
+        "lat": 43.786781,
+        "lng": 11.221326,
+        "auto": true
+      },
+      "N328": {
+        "nome": "Punto 328",
+        "lat": 43.786731,
+        "lng": 11.221298,
+        "auto": true
+      },
+      "N329": {
+        "nome": "Punto 329",
+        "lat": 43.786681,
+        "lng": 11.22127,
+        "auto": true
+      },
+      "N330": {
+        "nome": "Punto 330",
+        "lat": 43.786631,
+        "lng": 11.221242,
+        "auto": true
+      },
+      "N331": {
+        "nome": "Punto 331",
+        "lat": 43.786581,
+        "lng": 11.221213,
+        "auto": true
+      },
+      "N332": {
+        "nome": "Punto 332",
+        "lat": 43.786531,
+        "lng": 11.221185,
+        "auto": true
+      },
+      "N333": {
+        "nome": "Punto 333",
+        "lat": 43.786481,
+        "lng": 11.221157,
+        "auto": true
+      },
+      "N334": {
+        "nome": "Punto 334",
+        "lat": 43.786431,
+        "lng": 11.221128,
+        "auto": true
+      },
+      "N335": {
+        "nome": "Punto 335",
+        "lat": 43.786383,
+        "lng": 11.221094,
+        "auto": true
+      },
+      "N336": {
+        "nome": "Punto 336",
+        "lat": 43.786334,
+        "lng": 11.221064,
+        "auto": true
       }
     },
     "archi": [
@@ -3336,6 +3600,264 @@
       {
         "a": "N290",
         "b": "N291",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N293",
+        "b": "N294",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N294",
+        "b": "N295",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N295",
+        "b": "N296",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N296",
+        "b": "N297",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N297",
+        "b": "N298",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N298",
+        "b": "N299",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N299",
+        "b": "N300",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N300",
+        "b": "N301",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N301",
+        "b": "N302",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N302",
+        "b": "N303",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N303",
+        "b": "N304",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N304",
+        "b": "N305",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N305",
+        "b": "N306",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N306",
+        "b": "N307",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N307",
+        "b": "N308",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N308",
+        "b": "N309",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N309",
+        "b": "N310",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N310",
+        "b": "N311",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N311",
+        "b": "N312",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N312",
+        "b": "N313",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N313",
+        "b": "N314",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N314",
+        "b": "N315",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N315",
+        "b": "N316",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N316",
+        "b": "N317",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N317",
+        "b": "N318",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N318",
+        "b": "N319",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N319",
+        "b": "N320",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N320",
+        "b": "N321",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N321",
+        "b": "N322",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N322",
+        "b": "N323",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N323",
+        "b": "N324",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N324",
+        "b": "N325",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N325",
+        "b": "N326",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N326",
+        "b": "N327",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N327",
+        "b": "N328",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N328",
+        "b": "N329",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N329",
+        "b": "N330",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N330",
+        "b": "N331",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N331",
+        "b": "N332",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N332",
+        "b": "N333",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N333",
+        "b": "N334",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N334",
+        "b": "N335",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N335",
+        "b": "N336",
         "aperto": true,
         "auto": true
       },
@@ -7054,8 +7576,20 @@
         "auto": true
       },
       {
+        "a": "N185",
+        "b": "N293",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N186",
         "b": "N188",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N186",
+        "b": "N293",
         "aperto": true,
         "auto": true
       },
@@ -7068,6 +7602,18 @@
       {
         "a": "N187",
         "b": "N194",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N187",
+        "b": "N293",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N187",
+        "b": "N294",
         "aperto": true,
         "auto": true
       },
@@ -7086,6 +7632,12 @@
       {
         "a": "N188",
         "b": "N195",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N188",
+        "b": "N293",
         "aperto": true,
         "auto": true
       },
@@ -8442,6 +8994,438 @@
       {
         "a": "N291",
         "b": "N292",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N293",
+        "b": "N295",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N294",
+        "b": "N296",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N295",
+        "b": "N297",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N296",
+        "b": "N298",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N297",
+        "b": "N299",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N298",
+        "b": "N300",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N299",
+        "b": "N301",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N300",
+        "b": "N302",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N301",
+        "b": "N303",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N302",
+        "b": "N304",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N303",
+        "b": "N305",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N304",
+        "b": "N306",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N305",
+        "b": "N307",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N305",
+        "b": "N320",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N306",
+        "b": "N320",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N307",
+        "b": "N309",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N307",
+        "b": "N318",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N307",
+        "b": "N319",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N307",
+        "b": "N320",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N307",
+        "b": "N321",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N307",
+        "b": "N322",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N308",
+        "b": "N310",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N308",
+        "b": "N317",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N308",
+        "b": "N318",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N308",
+        "b": "N319",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N308",
+        "b": "N320",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N308",
+        "b": "N321",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N309",
+        "b": "N311",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N309",
+        "b": "N316",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N309",
+        "b": "N317",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N309",
+        "b": "N318",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N309",
+        "b": "N319",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N309",
+        "b": "N320",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N310",
+        "b": "N312",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N310",
+        "b": "N315",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N310",
+        "b": "N316",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N310",
+        "b": "N317",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N310",
+        "b": "N318",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N310",
+        "b": "N319",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N311",
+        "b": "N313",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N311",
+        "b": "N314",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N311",
+        "b": "N315",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N311",
+        "b": "N316",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N311",
+        "b": "N317",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N311",
+        "b": "N318",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N312",
+        "b": "N314",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N312",
+        "b": "N315",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N312",
+        "b": "N316",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N312",
+        "b": "N317",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N313",
+        "b": "N315",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N313",
+        "b": "N316",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N314",
+        "b": "N316",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N315",
+        "b": "N317",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N316",
+        "b": "N318",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N317",
+        "b": "N319",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N318",
+        "b": "N320",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N319",
+        "b": "N321",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N320",
+        "b": "N322",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N321",
+        "b": "N323",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N322",
+        "b": "N324",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N323",
+        "b": "N325",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N324",
+        "b": "N326",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N325",
+        "b": "N327",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N326",
+        "b": "N328",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N327",
+        "b": "N329",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N328",
+        "b": "N330",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N329",
+        "b": "N331",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N330",
+        "b": "N332",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N331",
+        "b": "N333",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N332",
+        "b": "N334",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N333",
+        "b": "N335",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N334",
+        "b": "N336",
         "aperto": true,
         "auto": true
       }
@@ -14422,5 +15406,5 @@
       ]
     }
   ],
-  "v": 1782913322422
+  "v": 1782913335907
 }
