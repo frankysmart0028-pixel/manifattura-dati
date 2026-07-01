@@ -2016,6 +2016,42 @@
         "lat": 43.786328,
         "lng": 11.221061,
         "auto": true
+      },
+      "N337": {
+        "nome": "Punto 337",
+        "lat": 43.78552,
+        "lng": 11.223321,
+        "auto": true
+      },
+      "N338": {
+        "nome": "Punto 338",
+        "lat": 43.785483,
+        "lng": 11.223367,
+        "auto": true
+      },
+      "N339": {
+        "nome": "Punto 339",
+        "lat": 43.785461,
+        "lng": 11.223435,
+        "auto": true
+      },
+      "N340": {
+        "nome": "Punto 340",
+        "lat": 43.78544,
+        "lng": 11.223504,
+        "auto": true
+      },
+      "N341": {
+        "nome": "Punto 341",
+        "lat": 43.78542,
+        "lng": 11.223573,
+        "auto": true
+      },
+      "N342": {
+        "nome": "Punto 342",
+        "lat": 43.785398,
+        "lng": 11.223642,
+        "auto": true
       }
     },
     "archi": [
@@ -3862,6 +3898,36 @@
         "auto": true
       },
       {
+        "a": "N337",
+        "b": "N338",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N338",
+        "b": "N339",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N339",
+        "b": "N340",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N340",
+        "b": "N341",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N341",
+        "b": "N342",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N1",
         "b": "N3",
         "aperto": true,
@@ -5045,6 +5111,12 @@
       },
       {
         "a": "N34",
+        "b": "N65",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N34",
         "b": "N66",
         "aperto": true,
         "auto": true
@@ -5134,6 +5206,12 @@
         "auto": true
       },
       {
+        "a": "N39",
+        "b": "N337",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N40",
         "b": "N42",
         "aperto": true,
@@ -5212,6 +5290,24 @@
         "auto": true
       },
       {
+        "a": "N40",
+        "b": "N337",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N40",
+        "b": "N338",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N40",
+        "b": "N339",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N41",
         "b": "N43",
         "aperto": true,
@@ -5260,6 +5356,12 @@
         "auto": true
       },
       {
+        "a": "N41",
+        "b": "N337",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N42",
         "b": "N44",
         "aperto": true,
@@ -5302,6 +5404,12 @@
         "auto": true
       },
       {
+        "a": "N42",
+        "b": "N337",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N43",
         "b": "N45",
         "aperto": true,
@@ -5398,6 +5506,12 @@
         "auto": true
       },
       {
+        "a": "N47",
+        "b": "N337",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N48",
         "b": "N50",
         "aperto": true,
@@ -5417,13 +5531,19 @@
       },
       {
         "a": "N48",
-        "b": "N61",
+        "b": "N62",
         "aperto": true,
         "auto": true
       },
       {
         "a": "N48",
-        "b": "N62",
+        "b": "N337",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N48",
+        "b": "N338",
         "aperto": true,
         "auto": true
       },
@@ -5470,6 +5590,24 @@
         "auto": true
       },
       {
+        "a": "N49",
+        "b": "N337",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N49",
+        "b": "N338",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N49",
+        "b": "N339",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N50",
         "b": "N52",
         "aperto": true,
@@ -5500,6 +5638,24 @@
         "auto": true
       },
       {
+        "a": "N50",
+        "b": "N337",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N50",
+        "b": "N338",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N50",
+        "b": "N339",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N51",
         "b": "N53",
         "aperto": true,
@@ -5526,6 +5682,18 @@
       {
         "a": "N51",
         "b": "N63",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N51",
+        "b": "N337",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N51",
+        "b": "N338",
         "aperto": true,
         "auto": true
       },
@@ -5568,6 +5736,12 @@
       {
         "a": "N52",
         "b": "N64",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N52",
+        "b": "N337",
         "aperto": true,
         "auto": true
       },
@@ -5752,8 +5926,26 @@
         "auto": true
       },
       {
+        "a": "N61",
+        "b": "N337",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N62",
         "b": "N63",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N62",
+        "b": "N337",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N62",
+        "b": "N338",
         "aperto": true,
         "auto": true
       },
@@ -5778,6 +5970,12 @@
       {
         "a": "N65",
         "b": "N70",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N65",
+        "b": "N337",
         "aperto": true,
         "auto": true
       },
@@ -5814,6 +6012,12 @@
       {
         "a": "N68",
         "b": "N70",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N69",
+        "b": "N337",
         "aperto": true,
         "auto": true
       },
@@ -6635,12 +6839,6 @@
       },
       {
         "a": "N122",
-        "b": "N152",
-        "aperto": true,
-        "auto": true
-      },
-      {
-        "a": "N122",
         "b": "N203",
         "aperto": true,
         "auto": true
@@ -7420,6 +7618,12 @@
         "auto": true
       },
       {
+        "a": "N162",
+        "b": "N171",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N163",
         "b": "N165",
         "aperto": true,
@@ -7614,12 +7818,6 @@
       {
         "a": "N187",
         "b": "N294",
-        "aperto": true,
-        "auto": true
-      },
-      {
-        "a": "N188",
-        "b": "N193",
         "aperto": true,
         "auto": true
       },
@@ -8542,12 +8740,6 @@
         "auto": true
       },
       {
-        "a": "N250",
-        "b": "N257",
-        "aperto": true,
-        "auto": true
-      },
-      {
         "a": "N251",
         "b": "N252",
         "aperto": true,
@@ -9426,6 +9618,30 @@
       {
         "a": "N334",
         "b": "N336",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N337",
+        "b": "N339",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N338",
+        "b": "N340",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N339",
+        "b": "N341",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N340",
+        "b": "N342",
         "aperto": true,
         "auto": true
       }
@@ -15057,5 +15273,5 @@
       ]
     }
   ],
-  "v": 1782917130186
+  "v": 1782917157959
 }
