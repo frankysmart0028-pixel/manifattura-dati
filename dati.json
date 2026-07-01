@@ -1512,6 +1512,18 @@
         "lat": 43.785386,
         "lng": 11.224351,
         "auto": true
+      },
+      "N254": {
+        "nome": "Punto 254",
+        "lat": 43.785457,
+        "lng": 11.224462,
+        "auto": true
+      },
+      "N255": {
+        "nome": "Punto 255",
+        "lat": 43.785445,
+        "lng": 11.224444,
+        "auto": true
       }
     },
     "archi": [
@@ -7072,8 +7084,26 @@
         "auto": true
       },
       {
+        "a": "N240",
+        "b": "N255",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N241",
         "b": "N243",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N241",
+        "b": "N254",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N241",
+        "b": "N255",
         "aperto": true,
         "auto": true
       },
@@ -7102,6 +7132,18 @@
         "auto": true
       },
       {
+        "a": "N242",
+        "b": "N254",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N242",
+        "b": "N255",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N243",
         "b": "N245",
         "aperto": true,
@@ -7120,6 +7162,18 @@
         "auto": true
       },
       {
+        "a": "N243",
+        "b": "N254",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N243",
+        "b": "N255",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N244",
         "b": "N246",
         "aperto": true,
@@ -7146,6 +7200,12 @@
       {
         "a": "N244",
         "b": "N250",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N244",
+        "b": "N255",
         "aperto": true,
         "auto": true
       },
@@ -7188,6 +7248,12 @@
       {
         "a": "N247",
         "b": "N250",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N247",
+        "b": "N255",
         "aperto": true,
         "auto": true
       },
@@ -7230,6 +7296,36 @@
       {
         "a": "N251",
         "b": "N252",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N251",
+        "b": "N254",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N251",
+        "b": "N255",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N252",
+        "b": "N254",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N252",
+        "b": "N255",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N254",
+        "b": "N255",
         "aperto": true,
         "auto": true
       }
@@ -11907,5 +12003,5 @@
       ]
     }
   ],
-  "v": 1782913119079
+  "v": 1782913124774
 }
