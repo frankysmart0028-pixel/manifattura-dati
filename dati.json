@@ -294,6 +294,84 @@
         "lat": 43.785502,
         "lng": 11.223296,
         "auto": true
+      },
+      "N50": {
+        "nome": "Punto 50",
+        "lat": 43.785528,
+        "lng": 11.223318,
+        "auto": true
+      },
+      "N51": {
+        "nome": "Punto 51",
+        "lat": 43.785541,
+        "lng": 11.223245,
+        "auto": true
+      },
+      "N52": {
+        "nome": "Punto 52",
+        "lat": 43.785553,
+        "lng": 11.223173,
+        "auto": true
+      },
+      "N53": {
+        "nome": "Punto 53",
+        "lat": 43.785566,
+        "lng": 11.2231,
+        "auto": true
+      },
+      "N54": {
+        "nome": "Punto 54",
+        "lat": 43.785579,
+        "lng": 11.223027,
+        "auto": true
+      },
+      "N55": {
+        "nome": "Punto 55",
+        "lat": 43.785592,
+        "lng": 11.222955,
+        "auto": true
+      },
+      "N56": {
+        "nome": "Punto 56",
+        "lat": 43.785604,
+        "lng": 11.222882,
+        "auto": true
+      },
+      "N57": {
+        "nome": "Punto 57",
+        "lat": 43.785605,
+        "lng": 11.222878,
+        "auto": true
+      },
+      "N58": {
+        "nome": "Punto 58",
+        "lat": 43.785592,
+        "lng": 11.222951,
+        "auto": true
+      },
+      "N59": {
+        "nome": "Punto 59",
+        "lat": 43.78558,
+        "lng": 11.223024,
+        "auto": true
+      },
+      "N60": {
+        "nome": "Punto 60",
+        "lat": 43.785567,
+        "lng": 11.223097,
+        "auto": true
+      },
+      "N61": {
+        "nome": "Punto 61",
+        "lat": 43.785555,
+        "lng": 11.223169,
+        "auto": true
+      },
+      "N62": {
+        "nome": "Punto 62",
+        "lat": 43.785542,
+        "lng": 11.223242,
+        "auto": true
       }
     },
     "archi": [
@@ -580,6 +658,78 @@
         "auto": true
       },
       {
+        "a": "N50",
+        "b": "N51",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N51",
+        "b": "N52",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N52",
+        "b": "N53",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N53",
+        "b": "N54",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N54",
+        "b": "N55",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N55",
+        "b": "N56",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N56",
+        "b": "N57",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N57",
+        "b": "N58",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N58",
+        "b": "N59",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N59",
+        "b": "N60",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N60",
+        "b": "N61",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N61",
+        "b": "N62",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N1",
         "b": "N3",
         "aperto": true,
@@ -922,6 +1072,18 @@
         "auto": true
       },
       {
+        "a": "N12",
+        "b": "N56",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N12",
+        "b": "N57",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N13",
         "b": "N15",
         "aperto": true,
@@ -954,6 +1116,18 @@
       {
         "a": "N13",
         "b": "N29",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N13",
+        "b": "N56",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N13",
+        "b": "N57",
         "aperto": true,
         "auto": true
       },
@@ -994,6 +1168,30 @@
         "auto": true
       },
       {
+        "a": "N14",
+        "b": "N55",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N14",
+        "b": "N56",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N14",
+        "b": "N57",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N14",
+        "b": "N58",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N15",
         "b": "N17",
         "aperto": true,
@@ -1026,6 +1224,18 @@
       {
         "a": "N15",
         "b": "N27",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N15",
+        "b": "N56",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N15",
+        "b": "N57",
         "aperto": true,
         "auto": true
       },
@@ -1186,14 +1396,62 @@
         "auto": true
       },
       {
+        "a": "N25",
+        "b": "N56",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N25",
+        "b": "N57",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N26",
         "b": "N28",
         "aperto": true,
         "auto": true
       },
       {
+        "a": "N26",
+        "b": "N55",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N26",
+        "b": "N56",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N26",
+        "b": "N57",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N26",
+        "b": "N58",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N27",
         "b": "N29",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N27",
+        "b": "N56",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N27",
+        "b": "N57",
         "aperto": true,
         "auto": true
       },
@@ -1270,6 +1528,12 @@
         "auto": true
       },
       {
+        "a": "N39",
+        "b": "N50",
+        "aperto": true,
+        "auto": true
+      },
+      {
         "a": "N40",
         "b": "N42",
         "aperto": true,
@@ -1290,6 +1554,36 @@
       {
         "a": "N40",
         "b": "N49",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N40",
+        "b": "N50",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N40",
+        "b": "N51",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N40",
+        "b": "N52",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N40",
+        "b": "N61",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N40",
+        "b": "N62",
         "aperto": true,
         "auto": true
       },
@@ -1320,6 +1614,24 @@
       {
         "a": "N41",
         "b": "N49",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N41",
+        "b": "N50",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N41",
+        "b": "N51",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N41",
+        "b": "N62",
         "aperto": true,
         "auto": true
       },
@@ -1356,6 +1668,12 @@
       {
         "a": "N42",
         "b": "N49",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N42",
+        "b": "N50",
         "aperto": true,
         "auto": true
       },
@@ -1410,6 +1728,264 @@
       {
         "a": "N47",
         "b": "N49",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N47",
+        "b": "N50",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N48",
+        "b": "N50",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N48",
+        "b": "N51",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N48",
+        "b": "N52",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N48",
+        "b": "N61",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N48",
+        "b": "N62",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N49",
+        "b": "N50",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N49",
+        "b": "N51",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N49",
+        "b": "N62",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N50",
+        "b": "N52",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N50",
+        "b": "N61",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N50",
+        "b": "N62",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N51",
+        "b": "N53",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N51",
+        "b": "N60",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N51",
+        "b": "N61",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N51",
+        "b": "N62",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N52",
+        "b": "N54",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N52",
+        "b": "N59",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N52",
+        "b": "N60",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N52",
+        "b": "N61",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N52",
+        "b": "N62",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N53",
+        "b": "N55",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N53",
+        "b": "N58",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N53",
+        "b": "N59",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N53",
+        "b": "N60",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N53",
+        "b": "N61",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N53",
+        "b": "N62",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N54",
+        "b": "N56",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N54",
+        "b": "N57",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N54",
+        "b": "N58",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N54",
+        "b": "N59",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N54",
+        "b": "N60",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N54",
+        "b": "N61",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N55",
+        "b": "N57",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N55",
+        "b": "N58",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N55",
+        "b": "N59",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N55",
+        "b": "N60",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N56",
+        "b": "N58",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N56",
+        "b": "N59",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N57",
+        "b": "N59",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N58",
+        "b": "N60",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N59",
+        "b": "N61",
+        "aperto": true,
+        "auto": true
+      },
+      {
+        "a": "N60",
+        "b": "N62",
         "aperto": true,
         "auto": true
       }
@@ -1601,16 +2177,12 @@
           43.78539876673596
         ],
         [
-          11.222903914182078,
-          43.78557285739459
+          11.223043713728522,
+          43.78549895482974
         ],
         [
-          11.222903914185473,
-          43.78558099999729
-        ],
-        [
-          11.222903780720506,
-          43.78558202414467
+          11.223125702456583,
+          43.785543164432056
         ],
         [
           11.223278207787452,
@@ -1876,6 +2448,36 @@
           11.222443144636477,
           43.785782236108666
         ]
+      ],
+      [
+        [
+          11.222903780720506,
+          43.78558202414467
+        ],
+        [
+          11.22306284659164,
+          43.785554170838594
+        ],
+        [
+          11.223002091079575,
+          43.785521410509055
+        ],
+        [
+          11.223001709915817,
+          43.78552115940459
+        ],
+        [
+          11.222903914182078,
+          43.78557285739459
+        ],
+        [
+          11.222903914185473,
+          43.78558099999729
+        ],
+        [
+          11.222903780720506,
+          43.78558202414467
+        ]
       ]
     ]
   },
@@ -1967,6 +2569,19 @@
         [
           43.78553,
           11.223313
+        ]
+      ],
+      "larghezza": 4
+    },
+    {
+      "punti": [
+        [
+          43.785562,
+          11.223119
+        ],
+        [
+          43.785507,
+          11.223017
         ]
       ],
       "larghezza": 4
@@ -2396,5 +3011,5 @@
       ]
     }
   ],
-  "v": 1782912619571
+  "v": 1782912632844
 }
