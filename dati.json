@@ -16817,7 +16817,8 @@
       "fovV": 50,
       "distanzaStimata": 12,
       "larghezzaAng": 15.4,
-      "altezzaAng": 16.5
+      "altezzaAng": 16.5,
+      "raggioVisibilita": 30
     }
   ],
   "dest": [
@@ -17174,5 +17175,5 @@
       ]
     }
   ],
-  "v": 1782889648128
+  "v": 1782889722456
 }
