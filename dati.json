@@ -14896,7 +14896,7 @@
     {
       "id": "poi_1782889648128",
       "titolo": "ciminiera",
-      "descrizione": "",
+      "descrizione": "Camino dell'ex centrale termica, il cuore energetico e faro della fabbrica: produceva il vapore che essiccava il tabacco e alimentava le macchine. È il simbolo più alto della Manifattura e dà nome al Cortile della Ciminiera.",
       "lat": 43.785600333888205,
       "lng": 11.223146088317185,
       "acc": 8,
@@ -15274,5 +15274,5 @@
       ]
     }
   ],
-  "v": 1782995253300
+  "v": 1782995333086
 }
