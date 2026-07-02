@@ -14916,7 +14916,8 @@
       "distanzaStimata": 12,
       "larghezzaAng": 15.4,
       "altezzaAng": 16.5,
-      "raggioVisibilita": 30
+      "raggioVisibilita": 30,
+      "categoria": "luogo"
     }
   ],
   "dest": [
@@ -15273,5 +15274,5 @@
       ]
     }
   ],
-  "v": 1782994701112
+  "v": 1782994732611
 }
