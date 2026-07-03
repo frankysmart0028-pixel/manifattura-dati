@@ -15477,6 +15477,126 @@
       "spread": null,
       "campioni": 1,
       "ts": "2026-06-25T15:10:29.154Z"
+    },
+    {
+      "nome": "Bulli & Balene",
+      "cat": "Cibo & drink",
+      "lat": 43.78578,
+      "lng": 11.223514,
+      "acc": 10,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-07-03T12:51:14.211Z"
+    },
+    {
+      "nome": "Zoo Hub",
+      "cat": "Negozi",
+      "lat": 43.786417,
+      "lng": 11.222593,
+      "acc": 10,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-07-03T12:51:14.211Z"
+    },
+    {
+      "nome": "Noa Ink",
+      "cat": "Servizi",
+      "lat": 43.786234,
+      "lng": 11.223185,
+      "acc": 10,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-07-03T12:51:14.211Z"
+    },
+    {
+      "nome": "Factory",
+      "cat": "Arte & cultura",
+      "lat": 43.786008,
+      "lng": 11.223259,
+      "acc": 10,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-07-03T12:51:14.211Z"
+    },
+    {
+      "nome": "Superduper",
+      "cat": "Negozi",
+      "lat": 43.786288,
+      "lng": 11.223019,
+      "acc": 10,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-07-03T12:51:14.211Z"
+    },
+    {
+      "nome": "Hiroko",
+      "cat": "Cibo & drink",
+      "lat": 43.785887,
+      "lng": 11.222909,
+      "acc": 10,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-07-03T12:51:14.211Z"
+    },
+    {
+      "nome": "Cuchiss Lab",
+      "cat": "Cibo & drink",
+      "lat": 43.786335,
+      "lng": 11.223297,
+      "acc": 10,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-07-03T12:51:14.211Z"
+    },
+    {
+      "nome": "Trek Bicycle",
+      "cat": "Negozi",
+      "lat": 43.785938,
+      "lng": 11.222734,
+      "acc": 10,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-07-03T12:51:14.211Z"
+    },
+    {
+      "nome": "Fàbera Jewelry",
+      "cat": "Negozi",
+      "lat": 43.786368,
+      "lng": 11.223219,
+      "acc": 10,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-07-03T12:51:14.211Z"
+    },
+    {
+      "nome": "Blues Barber",
+      "cat": "Servizi",
+      "lat": 43.785731,
+      "lng": 11.223278,
+      "acc": 10,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-07-03T12:51:14.211Z"
+    },
+    {
+      "nome": "Toast Project Space",
+      "cat": "Arte & cultura",
+      "lat": 43.786065,
+      "lng": 11.222099,
+      "acc": 10,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-07-03T12:51:14.211Z"
+    },
+    {
+      "nome": "Berberè",
+      "cat": "Cibo & drink",
+      "lat": 43.786071,
+      "lng": 11.222348,
+      "acc": 10,
+      "spread": null,
+      "campioni": 1,
+      "ts": "2026-07-03T12:51:14.211Z"
     }
   ],
   "gruppi": [
@@ -15771,5 +15891,5 @@
       ]
     }
   ],
-  "v": 1783083026700
+  "v": 1783083074211
 }
