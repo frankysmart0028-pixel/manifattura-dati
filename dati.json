@@ -15529,12 +15529,14 @@
     {
       "nome": "Superduper",
       "cat": "Negozi",
-      "lat": 43.786288,
-      "lng": 11.223019,
+      "lat": 43.786183,
+      "lng": 11.223108,
       "acc": 10,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-07-03T12:51:14.211Z"
+      "ts": "2026-07-03T12:51:14.211Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Hiroko",
@@ -15904,5 +15906,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186681206
+  "v": 1783186687919
 }
