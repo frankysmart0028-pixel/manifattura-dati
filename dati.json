@@ -15479,12 +15479,14 @@
     {
       "nome": "Manifattura Placemakers",
       "cat": "Ufficio",
-      "lat": 43.785353,
-      "lng": 11.223349,
+      "lat": 43.785237,
+      "lng": 11.223313,
       "acc": 5,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-06-25T15:10:29.154Z"
+      "ts": "2026-06-25T15:10:29.154Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Bulli & Balene",
@@ -15922,5 +15924,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186758720
+  "v": 1783186768282
 }
