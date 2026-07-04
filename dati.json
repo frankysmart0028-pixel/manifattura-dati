@@ -15821,6 +15821,14 @@
       "lng": 11.2237,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Ingresso Parcheggio Interrato",
+      "cat": "",
+      "lat": 43.786837,
+      "lng": 11.223215,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16116,5 +16124,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783190327031
+  "v": 1783190363223
 }
