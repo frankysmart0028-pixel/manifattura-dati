@@ -15653,6 +15653,14 @@
       "lng": 11.222145,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "La Piadineria",
+      "cat": "Ristorante",
+      "lat": 43.786473,
+      "lng": 11.22103,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -15948,5 +15956,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188324796
+  "v": 1783188342409
 }
