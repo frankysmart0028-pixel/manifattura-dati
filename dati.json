@@ -15483,8 +15483,8 @@
     {
       "nome": "Manifattura Placemakers",
       "cat": "Ufficio",
-      "lat": 43.785254,
-      "lng": 11.223291,
+      "lat": 43.785258,
+      "lng": 11.223283,
       "acc": 5,
       "spread": null,
       "campioni": 1,
@@ -15691,6 +15691,14 @@
       "cat": "Bar / Café",
       "lat": 43.785609,
       "lng": 11.223332,
+      "fonte": "satellite",
+      "precisioneM": 2
+    },
+    {
+      "nome": "Po'stò / Vivido",
+      "cat": "Ristorante",
+      "lat": 43.785399,
+      "lng": 11.22303,
       "fonte": "satellite",
       "precisioneM": 2
     }
@@ -15988,5 +15996,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188465872
+  "v": 1783188484068
 }
