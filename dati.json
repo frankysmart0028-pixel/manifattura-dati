@@ -15689,8 +15689,8 @@
     {
       "nome": "Captain Santors",
       "cat": "Bar / Café",
-      "lat": 43.785604,
-      "lng": 11.22332,
+      "lat": 43.785609,
+      "lng": 11.223332,
       "fonte": "satellite",
       "precisioneM": 2
     }
@@ -15988,5 +15988,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188437531
+  "v": 1783188442478
 }
