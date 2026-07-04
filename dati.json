@@ -15567,12 +15567,14 @@
     {
       "nome": "Trek Bicycle",
       "cat": "Negozi",
-      "lat": 43.785938,
-      "lng": 11.222734,
+      "lat": 43.785946,
+      "lng": 11.222735,
       "acc": 10,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-07-03T12:51:14.211Z"
+      "ts": "2026-07-03T12:51:14.211Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Fàbera Jewelry",
@@ -15914,5 +15916,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186717596
+  "v": 1783186723222
 }
