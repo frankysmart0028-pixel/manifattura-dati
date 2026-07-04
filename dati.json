@@ -15471,8 +15471,8 @@
     {
       "nome": "Piazza delle Sigaraie",
       "cat": "Piazza / Esterno",
-      "lat": 43.78568,
-      "lng": 11.224025,
+      "lat": 43.785692,
+      "lng": 11.224063,
       "acc": 13,
       "spread": null,
       "campioni": 1,
@@ -15930,5 +15930,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186848437
+  "v": 1783186851084
 }
