@@ -15669,6 +15669,14 @@
       "lng": 11.221271,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Pueco",
+      "cat": "Negozio",
+      "lat": 43.785929,
+      "lng": 11.222753,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -15964,5 +15972,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188358944
+  "v": 1783188388437
 }
