@@ -15813,6 +15813,14 @@
       "lng": 11.223611,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Lostudioesse",
+      "cat": "Atelier",
+      "lat": 43.786126,
+      "lng": 11.223718,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16108,5 +16116,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783190258441
+  "v": 1783190266881
 }
