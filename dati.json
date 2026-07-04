@@ -15749,6 +15749,14 @@
       "lng": 11.223339,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Spazio Gioco / Play Area",
+      "cat": "Piazza / Esterno",
+      "lat": 43.786329,
+      "lng": 11.223534,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16044,5 +16052,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188720484
+  "v": 1783188731977
 }
