@@ -15817,6 +15817,14 @@
       "lng": 11.223152,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Hiroko — Bentō e Vini",
+      "cat": "Ristorante",
+      "lat": 43.786174,
+      "lng": 11.223183,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16112,5 +16120,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783190494282
+  "v": 1783190496798
 }
