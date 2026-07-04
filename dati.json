@@ -15487,12 +15487,14 @@
     {
       "nome": "Bulli & Balene",
       "cat": "Cibo & drink",
-      "lat": 43.78578,
-      "lng": 11.223514,
+      "lat": 43.78579,
+      "lng": 11.223528,
       "acc": 10,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-07-03T12:51:14.211Z"
+      "ts": "2026-07-03T12:51:14.211Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Zoo Hub",
@@ -15918,5 +15920,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186744672
+  "v": 1783186746966
 }
