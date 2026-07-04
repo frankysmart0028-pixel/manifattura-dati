@@ -15825,6 +15825,14 @@
       "lng": 11.22321,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Polimoda",
+      "cat": "Scuola",
+      "lat": 43.785688,
+      "lng": 11.223486,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16120,5 +16128,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783190559647
+  "v": 1783190589455
 }
