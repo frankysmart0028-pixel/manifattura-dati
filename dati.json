@@ -15553,12 +15553,14 @@
     {
       "nome": "Cuchiss Lab",
       "cat": "Cibo & drink",
-      "lat": 43.786335,
-      "lng": 11.223297,
+      "lat": 43.786336,
+      "lng": 11.223344,
       "acc": 10,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-07-03T12:51:14.211Z"
+      "ts": "2026-07-03T12:51:14.211Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Trek Bicycle",
@@ -15908,5 +15910,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186693146
+  "v": 1783186695427
 }
