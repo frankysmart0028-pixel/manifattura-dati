@@ -15730,7 +15730,15 @@
       "nome": "Associazione Arte Continua",
       "cat": "Spazio B9",
       "lat": 43.785237,
-      "lng": 11.223324,
+      "lng": 11.22334,
+      "fonte": "satellite",
+      "precisioneM": 2
+    },
+    {
+      "nome": "Synlab",
+      "cat": "Servizio",
+      "lat": 43.787056,
+      "lng": 11.222011,
       "fonte": "satellite",
       "precisioneM": 2
     }
@@ -16028,5 +16036,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188626247
+  "v": 1783188653607
 }
