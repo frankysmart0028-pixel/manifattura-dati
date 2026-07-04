@@ -15725,6 +15725,14 @@
       "lng": 11.223391,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Associazione Arte Continua",
+      "cat": "Spazio B9",
+      "lat": 43.785237,
+      "lng": 11.223324,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16020,5 +16028,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188606622
+  "v": 1783188626247
 }
