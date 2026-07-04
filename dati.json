@@ -15421,12 +15421,14 @@
     {
       "nome": "Bottega Biologica",
       "cat": "Negozio",
-      "lat": 43.785895,
-      "lng": 11.223157,
+      "lat": 43.785899,
+      "lng": 11.223156,
       "acc": 10,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-07-02T13:42:28.727Z"
+      "ts": "2026-07-02T13:42:28.727Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Shake Café",
@@ -15898,5 +15900,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186641833
+  "v": 1783186663700
 }
