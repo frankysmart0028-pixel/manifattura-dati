@@ -15661,6 +15661,14 @@
       "lng": 11.221013,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Aparto",
+      "cat": "Servizio",
+      "lat": 43.786906,
+      "lng": 11.22125,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -15956,5 +15964,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188344679
+  "v": 1783188351160
 }
