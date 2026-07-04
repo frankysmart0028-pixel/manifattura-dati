@@ -15441,12 +15441,14 @@
     {
       "nome": "Live in MT Sales Office",
       "cat": "Servizio",
-      "lat": 43.786001,
-      "lng": 11.22348,
+      "lat": 43.786065,
+      "lng": 11.223497,
       "acc": 13,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-06-22T09:30:55.033Z"
+      "ts": "2026-06-22T09:30:55.033Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Ingresso Cascine 35",
@@ -15896,5 +15898,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186634742
+  "v": 1783186641833
 }
