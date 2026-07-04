@@ -15765,6 +15765,14 @@
       "lng": 11.223297,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Portineria Cascine 35",
+      "cat": "",
+      "lat": 43.785349,
+      "lng": 11.224398,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16060,5 +16068,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188790580
+  "v": 1783188826267
 }
