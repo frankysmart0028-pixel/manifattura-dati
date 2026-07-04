@@ -15645,6 +15645,14 @@
       "spread": null,
       "campioni": 1,
       "ts": "2026-07-04T17:42:05.169Z"
+    },
+    {
+      "nome": "Caveau",
+      "cat": "Servizio",
+      "lat": 43.786267,
+      "lng": 11.222145,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -15940,5 +15948,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188301426
+  "v": 1783188324796
 }
