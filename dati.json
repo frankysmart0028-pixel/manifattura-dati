@@ -15591,12 +15591,14 @@
     {
       "nome": "Blues Barber",
       "cat": "Servizi",
-      "lat": 43.785731,
-      "lng": 11.223278,
+      "lat": 43.785752,
+      "lng": 11.223359,
       "acc": 10,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-07-03T12:51:14.211Z"
+      "ts": "2026-07-03T12:51:14.211Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Toast Project Space",
@@ -15916,5 +15918,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186737607
+  "v": 1783186744672
 }
