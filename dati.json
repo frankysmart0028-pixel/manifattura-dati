@@ -15781,6 +15781,14 @@
       "lng": 11.223399,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Arno – Imaginary Topography",
+      "cat": "Piazza / Esterno",
+      "lat": 43.785539,
+      "lng": 11.223007,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16076,5 +16084,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783190128026
+  "v": 1783190169284
 }
