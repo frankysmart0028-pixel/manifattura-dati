@@ -15459,12 +15459,14 @@
     {
       "nome": "Ingresso Cascine 35",
       "cat": "Ingresso",
-      "lat": 43.785354,
-      "lng": 11.224589,
+      "lat": 43.78533,
+      "lng": 11.224599,
       "acc": 14,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-06-22T09:37:09.154Z"
+      "ts": "2026-06-22T09:37:09.154Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Piazza delle Sigaraie",
@@ -15479,8 +15481,8 @@
     {
       "nome": "Manifattura Placemakers",
       "cat": "Ufficio",
-      "lat": 43.78522,
-      "lng": 11.223355,
+      "lat": 43.785228,
+      "lng": 11.223323,
       "acc": 5,
       "spread": null,
       "campioni": 1,
@@ -15924,5 +15926,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186770600
+  "v": 1783186783687
 }
