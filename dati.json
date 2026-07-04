@@ -15805,6 +15805,14 @@
       "lng": 11.224339,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Ecoalf",
+      "cat": "Negozio",
+      "lat": 43.785946,
+      "lng": 11.223596,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16100,5 +16108,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783190234682
+  "v": 1783190256270
 }
