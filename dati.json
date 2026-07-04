@@ -15599,8 +15599,8 @@
     {
       "nome": "Toast Project Space",
       "cat": "Arte & cultura",
-      "lat": 43.785965,
-      "lng": 11.222072,
+      "lat": 43.78603,
+      "lng": 11.222116,
       "acc": 10,
       "spread": null,
       "campioni": 1,
@@ -15914,5 +15914,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186711866
+  "v": 1783186717596
 }
