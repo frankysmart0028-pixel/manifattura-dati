@@ -15483,8 +15483,8 @@
     {
       "nome": "Manifattura Placemakers",
       "cat": "Ufficio",
-      "lat": 43.785228,
-      "lng": 11.223323,
+      "lat": 43.785254,
+      "lng": 11.223291,
       "acc": 5,
       "spread": null,
       "campioni": 1,
@@ -15988,5 +15988,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188442478
+  "v": 1783188465872
 }
