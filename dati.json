@@ -15599,12 +15599,14 @@
     {
       "nome": "Toast Project Space",
       "cat": "Arte & cultura",
-      "lat": 43.786065,
-      "lng": 11.222099,
+      "lat": 43.785965,
+      "lng": 11.222072,
       "acc": 10,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-07-03T12:51:14.211Z"
+      "ts": "2026-07-03T12:51:14.211Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Berberè",
@@ -15912,5 +15914,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186704773
+  "v": 1783186711866
 }
