@@ -15789,6 +15789,14 @@
       "lng": 11.223007,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "SKATEPARK",
+      "cat": "",
+      "lat": 43.785509,
+      "lng": 11.223088,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16084,5 +16092,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783190169284
+  "v": 1783190203085
 }
