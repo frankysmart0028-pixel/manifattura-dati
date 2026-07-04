@@ -15817,8 +15817,8 @@
     {
       "nome": "Lostudioesse",
       "cat": "Atelier",
-      "lat": 43.786126,
-      "lng": 11.223718,
+      "lat": 43.786088,
+      "lng": 11.2237,
       "fonte": "satellite",
       "precisioneM": 2
     }
@@ -16116,5 +16116,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783190266881
+  "v": 1783190270631
 }
