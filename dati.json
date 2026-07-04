@@ -15691,7 +15691,7 @@
       "precisioneM": 2
     },
     {
-      "nome": "Polimoda B6",
+      "nome": "Polimoda B4",
       "cat": "Scuola",
       "lat": 43.785671,
       "lng": 11.223755,
@@ -16120,5 +16120,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783190541721
+  "v": 1783190552429
 }
