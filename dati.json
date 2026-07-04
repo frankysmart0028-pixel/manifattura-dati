@@ -15433,12 +15433,14 @@
     {
       "nome": "Shake Café",
       "cat": "Bar / Café",
-      "lat": 43.785881,
-      "lng": 11.22305,
+      "lat": 43.785858,
+      "lng": 11.223029,
       "acc": 4,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-06-22T09:16:49.538Z"
+      "ts": "2026-06-22T09:16:49.538Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Live in MT Sales Office",
@@ -15900,5 +15902,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186666700
+  "v": 1783186670031
 }
