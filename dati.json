@@ -15553,18 +15553,6 @@
       "precisioneM": 2
     },
     {
-      "nome": "Hiroko",
-      "cat": "Cibo & drink",
-      "lat": 43.786159,
-      "lng": 11.223194,
-      "acc": 10,
-      "spread": null,
-      "campioni": 1,
-      "ts": "2026-07-03T12:51:14.211Z",
-      "fonte": "satellite",
-      "precisioneM": 2
-    },
-    {
       "nome": "Cuchiss Lab",
       "cat": "Cibo & drink",
       "lat": 43.786336,
@@ -16124,5 +16112,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783190479014
+  "v": 1783190494282
 }
