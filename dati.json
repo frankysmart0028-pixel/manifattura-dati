@@ -15697,8 +15697,8 @@
     {
       "nome": "Po'stò / Vivido",
       "cat": "Ristorante",
-      "lat": 43.785399,
-      "lng": 11.22303,
+      "lat": 43.785423,
+      "lng": 11.223084,
       "fonte": "satellite",
       "precisioneM": 2
     }
@@ -15996,5 +15996,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188484068
+  "v": 1783188487218
 }
