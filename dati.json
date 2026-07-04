@@ -15681,8 +15681,8 @@
     {
       "nome": "Archivi Sartoriali",
       "cat": "Atelier",
-      "lat": 43.785819,
-      "lng": 11.223154,
+      "lat": 43.78581,
+      "lng": 11.223177,
       "fonte": "satellite",
       "precisioneM": 2
     },
@@ -16060,5 +16060,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188776231
+  "v": 1783188779554
 }
