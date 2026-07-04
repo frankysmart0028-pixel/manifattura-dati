@@ -15773,6 +15773,14 @@
       "lng": 11.224384,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Portineria Tartini 35",
+      "cat": "",
+      "lat": 43.786946,
+      "lng": 11.223392,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16068,5 +16076,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188858836
+  "v": 1783188865652
 }
