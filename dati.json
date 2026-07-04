@@ -15573,12 +15573,14 @@
     {
       "nome": "Fàbera Jewelry",
       "cat": "Negozi",
-      "lat": 43.786368,
-      "lng": 11.223219,
+      "lat": 43.786355,
+      "lng": 11.223278,
       "acc": 10,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-07-03T12:51:14.211Z"
+      "ts": "2026-07-03T12:51:14.211Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Blues Barber",
@@ -15906,5 +15908,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186687919
+  "v": 1783186693146
 }
