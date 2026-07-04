@@ -15471,12 +15471,14 @@
     {
       "nome": "Piazza delle Sigaraie",
       "cat": "Piazza / Esterno",
-      "lat": 43.785735,
-      "lng": 11.224046,
+      "lat": 43.785698,
+      "lng": 11.224025,
       "acc": 13,
       "spread": null,
       "campioni": 1,
-      "ts": "2026-06-22T09:40:00.340Z"
+      "ts": "2026-06-22T09:40:00.340Z",
+      "fonte": "satellite",
+      "precisioneM": 2
     },
     {
       "nome": "Manifattura Placemakers",
@@ -15926,5 +15928,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783186783687
+  "v": 1783186788855
 }
