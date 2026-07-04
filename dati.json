@@ -15761,8 +15761,8 @@
     {
       "nome": "Cool Farm / Mauna Kea",
       "cat": "Ristorante",
-      "lat": 43.785787,
-      "lng": 11.223296,
+      "lat": 43.785786,
+      "lng": 11.223274,
       "fonte": "satellite",
       "precisioneM": 2
     }
@@ -16060,5 +16060,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188760891
+  "v": 1783188763410
 }
