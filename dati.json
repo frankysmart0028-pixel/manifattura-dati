@@ -15709,6 +15709,14 @@
       "lng": 11.223764,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "Cancello Cascine",
+      "cat": "Ingresso",
+      "lat": 43.785315,
+      "lng": 11.224583,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16004,5 +16012,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188572177
+  "v": 1783188588581
 }
