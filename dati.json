@@ -15741,6 +15741,14 @@
       "lng": 11.222065,
       "fonte": "satellite",
       "precisioneM": 2
+    },
+    {
+      "nome": "B7 Eventi",
+      "cat": "",
+      "lat": 43.786019,
+      "lng": 11.223877,
+      "fonte": "satellite",
+      "precisioneM": 2
     }
   ],
   "gruppi": [
@@ -16036,5 +16044,5 @@
     }
   ],
   "qrpunti": [],
-  "v": 1783188677982
+  "v": 1783188711171
 }
